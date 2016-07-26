@@ -1,0 +1,27 @@
+<ion-view view-title="Recipe">
+  
+	<div class="bar bar-subheader">{{recipe.name}}</div>
+	<ion-content>
+	   	<img ng-src="{{recipe.imageUrl}}" alt="{{recipe.name}}" />
+		<h3>{{recipe.name}}</h3>
+		<p>Serving: {{recipe.serving}}
+		<p>Diet Type: {{recipe.dietType}}</p>
+		<p>Prepatration Time: {{recipe.prepTime}}</p>
+		<p>Cooking Time: {{recipe.cookingTime}}</p>
+
+		<h3>Ingredients</h3>
+		<ion-list>
+	   		<ion-item ng-repeat="item in recipe.ingredients">   	
+      			<p>{{item.amount}} {{item.ingredient}}</p>
+			</ion-item>
+		</ion-list>
+
+		<h3>Steps</h3>
+		<ion-list>
+	   		<ion-item ng-repeat="item in recipe.directions">   	
+      			<p>{{item.step}}</p>
+			</ion-item>
+		</ion-list>
+	</ion-content>
+</ion-view>
+

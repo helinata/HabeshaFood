@@ -1,0 +1,8 @@
+{
+    "name": "Habesha Recipe",
+    "description": "A guide on how to cook Ethiopian/Eritrean Food",
+    "private": "true",
+    "devDependencies": {
+        "ionic": "driftyco/ionic-bower#1.3.1"
+    }
+}

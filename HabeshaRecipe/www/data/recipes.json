@@ -1,0 +1,574 @@
+[{
+    "id": 0,
+    "imageUrl": "/img/ionic.png",
+    "name": "Salad",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+    "type": "sidedish",
+    "dietType": "Vegan",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "salt",
+        "amount": "2 teaspoons"
+    }, {
+        "ingredient": "olive oil",
+        "amount": "3 tablespoons"
+    }, {
+        "ingredient": "black paper",
+        "amount": "1 teaspoons"
+    }, {
+        "ingredient": "lime, squeezed",
+        "amount": "1"
+    }, {
+        "ingredient": "onion, chopped",
+        "amount": "1/4 cup"
+    }, {
+        "ingredient": "tomato",
+        "amount": "2"
+    }, {
+        "ingredient": "romaine lettuce",
+        "amount": "1"
+    }, {
+        "ingredient": "jalapeno/Serrano pepper",
+        "amount": "1"
+    }],
+    "directions": [{
+        "step": "in a medium bowl, mix the first four items well in a bowl"
+    }, {
+        "step": "Combine the rest of the ingredients with mix and serve"
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 1,
+    "imageUrl": "/img/ionic.png",
+    "name": "Ayib",
+    "serving": "4",
+    "prepTime": "5 min",
+    "cookingTime": "55 min",
+
+    "type": "sidedish",
+    "dietType": "Vegetarian",
+    "spicy": 1,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "low fat milk",
+        "amount": "1/2 gallon"
+    }, {
+        "ingredient": "white Vinegar",
+        "amount": "1/3 cup"
+    }],
+
+    "directions": [{
+        "step": "In a large pot over medium heat, put the milk and Vinegar. Mix the ingredients."
+    }, {
+        "step": "Cook for 50 minutes."
+    }, {
+        "step": "Matilele. Let it cool for about 4 hours and serve"
+
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 2,
+    "imageUrl": "/img/ionic.png",
+    "name": "Avocado salad",
+    "serving": "4",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "sidedish",
+    "dietType": "Vegan",
+    "spicy": 2,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "salt",
+        "amount": "2 teaspoons"
+    }, {
+        "ingredient": "olive oil",
+        "amount": "3 tablespoons"
+    }, {
+        "ingredient": "black paper",
+        "amount": "1 teaspoons"
+    }, {
+        "ingredient": "lime, squeezed",
+        "amount": "1"
+    }, {
+        "ingredient": "onion, chopped",
+        "amount": "1/4 cup"
+    }, {
+        "ingredient": "tomato",
+        "amount": "2"
+    }, {
+        "ingredient": "avocado",
+        "amount": "1"
+    }, {
+        "ingredient": "jalapeno/Serrano pepper",
+        "amount": "1"
+    }],
+    "directions": [{
+        "step": "In a large bowl, mix the first four ingredients."
+    }, {
+        "step": "Add the avocado to the dressing and mash slightly"
+    },{
+        "step": "Add the rest of the ingredients in the bowl. Then, serve"
+
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 3,
+    "imageUrl": "/img/ionic.png",
+    "name": "Kuanta (Dried meat) Firfir",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "breakfast",
+    "dietType": "",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "onion, chopped",
+        "amount": "1"
+    }, {
+        "ingredient": "oil",
+        "amount": "2/3 cup"
+    }, {
+        "ingredient": "tomato",
+        "amount": "2"
+    }, {
+        "ingredient": "Berebere ",
+        "amount": "4 tablespoons"
+    }, {
+        "ingredient": "dried meat/Kuanta, crushed",
+        "amount": "1/4 pounds"
+    }, {
+        "ingredient": "garlic, finely chopped",
+        "amount": "3 medium cloves"
+    }, {
+        "ingredient": "salt",
+        "amount": "3 tablespoons"
+    }, {
+        "ingredient": "pepper",
+        "amount": "1 teaspoon"
+    }, {
+        "ingredient": "injera",
+        "amount": "1 and 1/4"
+    }, {
+        "ingredient": "ethiopian butter. Optional",
+        "amount": "2 tablespoons"
+    }],
+    "directions": [{
+        "step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tunder."
+    }, {
+        "step": "Add the tomato, Berebere and 1/3 cup water. Cook for 5 minutes then add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
+    }, {
+        "step": "Sprinkle the salt and pepper, add 2 1/2 cup of water and cook for 10 minutes"
+    }, {
+        "step": "Slice the injera into small peices and mix it with mix."
+    }, {
+        "step": "Serve it with injera or bread"
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 4,
+    "imageUrl": "/img/ionic.png",
+    "name": "Tikil Gomen/Cabbage",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "sidedish",
+    "dietType": "Vegan",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "Oil",
+        "amount": "1/2 cup"
+    }, {
+        "ingredient": "medium Carrot",
+        "amount": "4"
+    }, {
+        "ingredient": "onion, chopped",
+        "amount": "1"
+    }, {
+        "ingredient": "garlic onion, finely chopped",
+        "amount": "3"
+    }, {
+        "ingredient": "medium Cabbage",
+        "amount": "1"
+    }],
+    "directions": [{
+        "step": "In a large pot over medium heat, cook oil and Carrot until tender."
+    }, {
+        "step": "Add onion and garlic onion in the pot and cook them until tender. "
+    }, {
+        "step": "Put the cabbage and cook for 15 minutes"
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 5,
+    "imageUrl": "/img/ionic.png",
+    "name": "Tibs",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "maindish",
+    "dietType": "",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 6,
+    "imageUrl": "/img/ionic.png",
+    "name": "Shiro wot",
+    "serving": "4",
+    "prepTime": "10 min",
+    "cookingTime": "35 min",
+
+    "type": "maindish",
+    "dietType": "Vegetarian",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "onion",
+        "amount": "1"
+    }, {
+        "ingredient": "oil",
+        "amount": "1/2 cup"
+    }, {
+        "ingredient": "tomato",
+        "amount": "2"
+    }, {
+        "ingredient": "Shiro",
+        "amount": "1/2 cup"
+    }, {
+        "ingredient": "garlic",
+        "amount": "3 cloves"
+    }, {
+        "ingredient": "water",
+        "amount": "4 cups"
+    }, {
+        "ingredient": "salt",
+        "amount": "2 tablespoons"
+    }, {
+        "ingredient": "jalapeno pepper, cleand and sliced",
+        "amount": "1"
+    }, {
+        "ingredient": "ethiopian butter, Optional",
+        "amount": "3 tablespoons"
+    }],
+    "directions": [{
+        "step": "Heat oil in a medium nonstick pan over medium heat. Add onion; cook until tender."
+    }, {
+        "step": "Add tomato and garlic. Cook until tomatoes are shrivelled, stirring occasionally "
+    }, {
+        "step": "Add water and Shiro. Combine well with mix and cook for 10 minutes"
+    }, {
+        "step": "Lower the heat to medium-low. Add the last three items and cook for another 10 minutes"
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 7,
+    "imageUrl": "/img/ionic.png",
+    "name": "Kitfo/Minced beef",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "maindish",
+    "dietType": "",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 8,
+    "imageUrl": "/img/ionic.png",
+    "name": "Miser wot",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "maindish",
+    "dietType": "Vegan",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 9,
+    "imageUrl": "/img/ionic.png",
+    "name": "Dinch be'siga wot",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "maindish",
+    "dietType": "",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 10,
+    "imageUrl": "/img/ionic.png",
+    "name": "Enqulal Firfir/Scrambled eggs?",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "breakfast",
+    "dietType": "Vegetarian",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 11,
+    "imageUrl": "/img/ionic.png",
+    "name": "Ye'tsome Firfir",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "breakfast",
+    "dietType": "Vegan",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 12,
+    "imageUrl": "/img/ionic.png",
+    "name": "Kinche",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+
+    "type": "breakfast",
+    "dietType": "Vegetarian",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 13,
+    "imageUrl": "/img/ionic.png",
+    "name": "Kita Firfir",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+    "type": "breakfast",
+    "dietType": "Vegetarian",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 14,
+    "imageUrl": "/img/ionic.png",
+    "name": "Tomato salad",
+    "serving": "2",
+    "prepTime": "10 min",
+    "cookingTime": "",
+    "type": "sidedish",
+    "dietType": "Vegan",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "salt",
+        "amount": "1 teaspoons"
+    }, {
+        "ingredient": "olive oil",
+        "amount": "3 tablespoons"
+    }, {
+        "ingredient": "black paper",
+        "amount": "1/4 teaspoons"
+    }, {
+        "ingredient": "lime, squeezed",
+        "amount": "1/2"
+    }, {
+        "ingredient": "onion, chopped",
+        "amount": "1/4 cup"
+    }, {
+        "ingredient": "tomato",
+        "amount": "1"
+    }, {
+        "ingredient": "jalapeno/Serrano pepper",
+        "amount": "1"
+    }],
+    "directions": [{
+        "step": "Mix the first four items well in a bowl"
+    }, {
+        "step": "Combine the rest of the ingredients with the dressing in the bowl and serve"
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 15,
+    "imageUrl": "/img/ionic.png",
+    "name": "",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+    "type": "",
+    "dietType": "",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}, {
+    "id": 16,
+    "imageUrl": "/img/ionic.png",
+    "name": "",
+    "serving": "",
+    "prepTime": "",
+    "cookingTime": "",
+    "type": "",
+    "dietType": "",
+    "spicy": 0,
+    "recipeRating": 0,
+    "calories": 0,
+    "ingredients": [{
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }, {
+        "ingredient": "",
+        "amount": ""
+    }],
+    "directions": [{
+        "step": ""
+    }, {
+        "step": ""
+    }],
+    "RecipeBy": ""
+}]
