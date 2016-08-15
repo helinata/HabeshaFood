@@ -4,20 +4,20 @@
 	   	<img ng-src="{{recipe.imageUrl}}" alt="{{recipe.name}}" />
 		<h3>{{recipe.name}}</h3>
 		<p>Serving: {{recipe.serving}}
-		<p>Diet Type: {{recipe.dietType}}</p>
+		<!-- <p>Diet Type: {{recipe.dietType}}</p> -->
 		<p>Prepatration Time: {{recipe.prepTime}}</p>
-		<p>Cooking Time: {{recipe.cookingTime}}</p>
+		<p>{{cookingTimeTitle}}{{cookingTime}}</p>
 	</div>
 	<div class="side-space">
 	<p class="header-style1">Ingredients</p>
-		<ul class="list">
+		<ul class="ingredients">
 	   		<li class="item"  ng-repeat="item in recipe.ingredients">  
 	   			<p>{{item.amount}} {{item.ingredient}}</p>
 			</li>
 		</ul>
 
-		<p class="headerStyle1">Steps</p>
-		<ul>
+		<p class="header-style1">Steps</p>
+		<ul class="steps">
 	   		<li ng-repeat="item in recipe.directions">   	
       			<p>{{item.step}}</p>
 			</li>

@@ -3,7 +3,27 @@
 	font-size: 16px;
     /* font-weight: bold; */
     font-style: italic;
+    padding-top: 15px;
 }
+
+.ingredients li{
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.steps li {
+	padding: 1px 5px;
+}
+
 .side-space {
 	margin: 15px;
+}
+
+.dish-type .item {
+    font-size: 24px;
+    text-align: center;    
+}
+
+.dish-type .item {
+	height: 150px;
 }

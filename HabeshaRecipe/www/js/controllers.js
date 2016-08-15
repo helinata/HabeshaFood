@@ -58,6 +58,11 @@ angular.module('starter.controllers', [])
   .then(function(response){
     var id = parseInt(recipeId);
      $scope.recipe = response.data[id];
+     if(response.data[id].cookingTime)
+     {
+      $scope.cookingTime = response.data[id].cookingTime;
+      $scope.cookingTimeTitle = "Cooking Time: ";
+      }
   });
 })
 .controller('VeganCtrl', function($scope, $stateParams) {
