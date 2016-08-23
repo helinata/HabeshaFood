@@ -349,8 +349,8 @@
 	"imageUrl": "/img/ionic.png",
 	"name": "Miser Wot (Lentil Sauce)",
 	"serving": "6",
-	"prepTime": "",
-	"cookingTime": "",
+	"prepTime": "15 minutes",
+	"cookingTime": "40 minutes",
 	"type": "maindish",
 	"dietType": "Vegan",
 	"spicy": 0,
@@ -394,7 +394,7 @@
 	}, {
 		"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 3 cups of water and in small portions and stir occasionally for 30 minutes"
 	}, {
-		"step": "Lower the heat to medium-low. Add the last three items and cook for another 5 minutes"
+		"step": "Lower the heat to medium-low. Add the last three items and cook for another 10 minutes"
 	}],
 	"recipeBy": "",
 	"visible": true
