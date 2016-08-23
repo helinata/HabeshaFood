@@ -156,7 +156,7 @@
 		"ingredient": "pepper",
 		"amount": "1 teaspoon"
 	}, {
-		"ingredient": "ethiopian butter. Optional",
+		"ingredient": "Ethiopian butter. Optional",
 		"amount": "2 tablespoons"
 	}, {
 		"ingredient": "injera",
@@ -288,14 +288,14 @@
 		"ingredient": "salt",
 		"amount": "2 tablespoons"
 	}, {
-		"ingredient": "jalapeno pepper, cleand and sliced",
+		"ingredient": "jalapeno pepper, cleand and sliced. Optional",
 		"amount": "1"
 	}, {
-		"ingredient": "ethiopian butter, Optional",
+		"ingredient": "Ethiopian butter. Optional",
 		"amount": "3 tablespoons"
 	}],
 	"directions": [{
-		"step": "Heat oil in a medium nonstick pan over medium heat. Add onion; cook until tender."
+		"step": "Heat oil in a medium sauté pan over medium heat. Add onion; cook until tender."
 	}, {
 		"step": "Add tomato and garlic. Cook until tomatoes are shrivelled, stirring occasionally "
 	}, {
@@ -347,8 +347,8 @@
 }, {
 	"id": 8,
 	"imageUrl": "/img/ionic.png",
-	"name": "Miser wot",
-	"serving": "",
+	"name": "Miser Wot (Lentil Sauce)",
+	"serving": "6",
 	"prepTime": "",
 	"cookingTime": "",
 	"type": "maindish",
@@ -357,16 +357,47 @@
 	"recipeRating": 0,
 	"calories": 0,
 	"ingredients": [{
-		"ingredient": "",
-		"amount": ""
+	"ingredient": "onion",
+		"amount": "2"
+	}, {
+		"ingredient": "oil",
+		"amount": "1/2 cup ?"
+	}, {
+		"ingredient": "tomato",
+		"amount": "2"
+	}, {
+		"ingredient": "berbere",
+		"amount": "6 tablespoons"
+	}, {
+		"ingredient": "garlic, minced",
+		"amount": "5 cloves"
+	}, {
+		"ingredient": "Red Lentil",
+		"amount": "2 cups"
+	}, {
+		"ingredient": "water",
+		"amount": "6 cups"
+	}, {
+		"ingredient": "salt",
+		"amount": "3 teaspoons"
+	}, {
+		"ingredient": "jalapeno pepper, cleand and sliced. Optional",
+		"amount": "1"
+	}, {
+		"ingredient": "Ethiopian butter. Optional",
+		"amount": "3 tablespoons"
 	}],
 	"directions": [{
-		"step": ""
+		"step": "Heat oil in a medium nonstick pot over medium heat. Add onion; cook until tender."
 	}, {
-		"step": ""
+		"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding 2 cups of water in small portions and stirring occasionally "
+	}, {
+		"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 3 cups of water and in small portions and stir occasionally for 30 minutes"
+	}, {
+		"step": "Lower the heat to medium-low. Add the last three items and cook for another 5 minutes"
 	}],
 	"recipeBy": "",
-	"visible": false
+	"visible": true
 }, {
 	"id": 9,
 	"imageUrl": "/img/ionic.png",
@@ -531,7 +562,7 @@
 		"ingredient": "salt",
 		"amount": ""
 	}, {
-		"ingredient": "ethiopian butter",
+		"ingredient": "Ethiopian butter",
 		"amount": ""
 	}],
 	"directions": [{
@@ -566,7 +597,7 @@
 		"ingredient": "berbere",
 		"amount": ""
 	}, {
-		"ingredient": "ethiopian butter",
+		"ingredient": "Ethiopian butter",
 		"amount": ""
 	}, {
 		"ingredient": "salt",
@@ -663,7 +694,7 @@
 		"ingredient": "salt",
 		"amount": ""
 	}, {
-		"ingredient": "ethiopian butter",
+		"ingredient": "Ethiopian butter",
 		"amount": ""
 	}],
 	"directions": [{
@@ -675,6 +706,35 @@
 	"visible": false
 }, {
 	"id": 16,
+	"imageUrl": "/img/ionic.png",
+	"name": "Awaze (Hot Sauce)",
+	"serving": "",
+	"prepTime": "",
+	"cookingTime": "",
+	"type": "sidedish",
+	"dietType": "",
+	"spicy": 0,
+	"recipeRating": 0,
+	"calories": 0,
+	"ingredients": [{
+		"ingredient": "",
+		"amount": ""
+	}, {
+		"ingredient": "",
+		"amount": ""
+	}, {
+		"ingredient": "",
+		"amount": ""
+	}],
+	"directions": [{
+		"step": ""
+	}, {
+		"step": ""
+	}],
+	"recipeBy": "",
+	"visible": false
+}, {
+	"id": 17,
 	"imageUrl": "/img/ionic.png",
 	"name": "",
 	"serving": "",
