@@ -1,0 +1,6 @@
+<ion-view view-title="Description">
+  <ion-content>
+  This app provides recipes of Ethiopian/Eritrean cuisine.
+  Berbere (Amharic: በርበሬ berberē, Tigrinya: በርበረ berbere) is a spice mixture whose constituent elements usually include chili peppers, garlic, ginger, basil, korarima, rue, ajwain or radhuni, nigella, and fenugreek. It is a key ingredient in the cuisine
+</ion-content>
+</ion-view>
