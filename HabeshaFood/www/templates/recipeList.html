@@ -1,0 +1,17 @@
+
+<ion-view view-title="Recipes">
+  <ion-content>
+    <ul class="list">
+      <li  ng-repeat="recipe in recipeList | filter: { visible: true} | filter: recipeType">
+
+        <a href="#/app/recipe/?id={{recipe.id}}" class="item item-thumbnail-left">
+	    	  <img ng-src="{{recipe.imageUrl}}" alt="{{recipe.name}}" />
+          <h2>{{recipe.name}}</h2>
+          <p>{{recipe.dietType}}</p>
+	      </a>	      
+      </li>
+    </ul>
+  </ion-content>
+
+</ion-view>
+
