@@ -1,0 +1,5 @@
+C:\Users\psspsetup\documents\visual studio 2013\Projects\TrainingExpenseReport\TrainingExpenseReport\bin\Debug\TrainingExpenseReport.pdb
+C:\Users\psspsetup\documents\visual studio 2013\Projects\TrainingExpenseReport\TrainingExpenseReport\bin\Debug\TrainingExpenseReport.xml
+C:\Users\psspsetup\documents\visual studio 2013\Projects\TrainingExpenseReport\TrainingExpenseReport\obj\Debug\TrainingExpenseReport.dll
+C:\Users\psspsetup\documents\visual studio 2013\Projects\TrainingExpenseReport\TrainingExpenseReport\obj\Debug\TrainingExpenseReport.xml
+C:\Users\psspsetup\documents\visual studio 2013\Projects\TrainingExpenseReport\TrainingExpenseReport\obj\Debug\TrainingExpenseReport.pdb

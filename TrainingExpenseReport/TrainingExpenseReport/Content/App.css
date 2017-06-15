@@ -1,0 +1,19 @@
+﻿/* Place custom styles below */
+.column1 {
+    padding: 5px;
+    font-weight: 500;
+}
+
+.column2 {
+    padding: 5px;
+}
+
+.submit {
+    padding: 5px;
+}
+
+.errorMessage {
+    padding: 5px;
+    color: darkred;
+    visibility: hidden;
+}

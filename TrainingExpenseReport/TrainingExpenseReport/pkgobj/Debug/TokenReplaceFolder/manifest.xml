@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Solution xmlns="http://schemas.microsoft.com/sharepoint/" SolutionId="85be0ae2-925e-42c3-b7f9-847df2ea5a8d" SharePointProductVersion="16.0">
+  <FeatureManifests>
+    <FeatureManifest Location="TrainingExpenseReport_Feature1\Feature.xml" />
+  </FeatureManifests>
+</Solution>
