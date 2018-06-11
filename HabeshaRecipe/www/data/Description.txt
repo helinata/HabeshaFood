@@ -1,8 +1,0 @@
-<ion-view view-title="Description">
-  <ion-content>
-  Berbere (Amharic: በርበሬ berberē, Tigrinya: በርበረ berbere) is a spice mixture whose constituent elements usually include chili peppers, garlic, ginger, basil, korarima, rue, ajwain or radhuni, nigella, and fenugreek.[1][2][3] It is a key ingredient in the cuisine
-Fifir
-tibs
-mitmita
-</ion-content>
-</ion-view>
