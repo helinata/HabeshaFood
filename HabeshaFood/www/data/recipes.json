@@ -1,825 +1,1239 @@
-[{
-	"id": 0,
-	"imageUrl": "img/Temp.png",
-	"name": "Salad",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "sidedish",
-	"dietType": "Vegan",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "salt",
-		"amount": "2 teaspoons"
-	}, {
-		"ingredient": "olive oil",
-		"amount": "3 tablespoons"
-	}, {
-		"ingredient": "black paper",
-		"amount": "1 teaspoons"
-	}, {
-		"ingredient": "lime, squeezed",
-		"amount": "1"
-	}, {
-		"ingredient": "onion, chopped",
-		"amount": "1/4 cup"
-	}, {
-		"ingredient": "tomato",
-		"amount": "2"
-	}, {
-		"ingredient": "romaine lettuce",
-		"amount": "1"
-	}, {
-		"ingredient": "jalapeno/serrano pepper, sliced into small peices",
-		"amount": "1"
-	}],
-	"directions": [{
-		"step": "In a medium bowl, mix the first four items well in a bowl"
-	}, {
-		"step": "Combine the rest of the ingredients with mix and serve"
-	}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 1,
-	"imageUrl": "img/Temp.png",
-	"name": "Ayib",
-	"serving": "4",
-	"prepTime": "5 min",
-	"cookingTime": "50 min",
-
-	"type": "sidedish",
-	"dietType": "Vegetarian",
-	"spicy": 1,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "low fat milk",
-		"amount": "1/2 gallon"
-	}, {
-		"ingredient": "white Vinegar",
-		"amount": "1/3 cup"
-	}],
-	"directions": [{
-		"step": "In a large pot over medium heat, put the milk and Vinegar. Mix the ingredients."
-	}, {
-		"step": "Cook for 50 minutes."
-	}, {
-		"step": "Drain it. Let it cool for atleast 4 hours before serving"
-
-	}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 2,
-	"imageUrl": "img/Temp.png",
-	"name": "Avocado Salad",
-	"serving": "4",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "sidedish",
-	"dietType": "Vegan",
-	"spicy": 2,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "salt",
-		"amount": "2 teaspoons"
-	}, {
-		"ingredient": "olive oil",
-		"amount": "3 tablespoons"
-	}, {
-		"ingredient": "black paper",
-		"amount": "1 teaspoons"
-	}, {
-		"ingredient": "lime, squeezed",
-		"amount": "1"
-	}, {
-		"ingredient": "onion, chopped",
-		"amount": "1/4 cup"
-	}, {
-		"ingredient": "tomato",
-		"amount": "2"
-	}, {
-		"ingredient": "avocado",
-		"amount": "1"
-	}, {
-		"ingredient": "jalapeno/Serrano pepper",
-		"amount": "1"
-	}],
-	"directions": [{
-		"step": "In a large bowl, mix the first four ingredients."
-	}, {
-		"step": "Mix the avocado to the dressing and mash slightly"
-	}, {
-		"step": "Add the rest of the ingredients in the bowl. Then, serve"
-
-	}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 3,
-	"imageUrl": "img/Temp.png",
-	"name": "Kuanta (Dried meat) Firfir",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "breakfast",
-	"dietType": "",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "onion, chopped",
-		"amount": "1"
-	}, {
-		"ingredient": "oil",
-		"amount": "2/3 cup"
-	}, {
-		"ingredient": "tomato",
-		"amount": "2"
-	}, {
-		"ingredient": "berebere ",
-		"amount": "4 tablespoons"
-	}, {
-		"ingredient": "dried meat/Kuanta, crushed",
-		"amount": "1/4 pounds"
-	}, {
-		"ingredient": "garlic, finely chopped",
-		"amount": "3 medium cloves"
-	}, {
-		"ingredient": "salt",
-		"amount": "3 teaspoons"
-	}, {
-		"ingredient": "pepper",
-		"amount": "1 teaspoon"
-	}, {
-		"ingredient": "Ethiopian butter. Optional",
-		"amount": "2 tablespoons"
-	}, {
-		"ingredient": "injera",
-		"amount": "1 and 1/4"
-	}],
-	"directions": [{
-		"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tunder."
-	}, {
-		"step": "Add the tomato, Berebere and 1/3 cup water. Cook for 5 minutes then add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
-	}, {
-		"step": "Sprinkle the salt and pepper, add 2 1/2 cup of water and cook for 10 minutes"
-	}, {
-		"step": "Slice the injera into small peices and mix it with mix."
-	}, {
-		"step": "Serve it with injera or bread"
-	}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 4,
-	"imageUrl": "img/TikelGomen.png",
-	"name": "Tikil Gomen/Cabbage",
-	"serving": "6",
-	"prepTime": "10 minutes",
-	"cookingTime": "25 minutes",
-	"type": "sidedish",
-	"dietType": "Vegan",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "Oil",
-		"amount": "1/2 cup"
-	}, {
-		"ingredient": "medium Carrot",
-		"amount": "4"
-	}, {
-		"ingredient": "onion, chopped",
-		"amount": "1"
-	}, {
-		"ingredient": "garlic onion, finely chopped",
-		"amount": "3"
-	}, {
-		"ingredient": "medium Cabbage",
-		"amount": "1"
-	}, {
-		"ingredient": "jalapeno pepper",
-		"amount": "1"
-	}, {
-		"ingredient": " salt",
-		"amount": "3/4 tablespoons"
-	}],
-	"directions": [{
-		"step": "In a large pot over medium-low heat, Add oil and cook Carrot until tender."
-	}, {
-		"step": "Add onion and garlic onion in the pot and cook them until tender. "
-	}, {
-		"step": "Put the cabbage and cook for 20 minutes"
-	},{
-		"step": "Add the Jalopeno pepper and salt and cook for an additional 5 minutes"
-	}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 5,
-	"imageUrl": "img/LegaTibes.png",
-	"name": "Lega Tibs",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "maindish",
-	"dietType": "",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "beef",
-		"amount": "2 pounds"
-	}, {
-		"ingredient": "onion",
-		"amount": "1"
-	}, {
-		"ingredient": "tomato",
-		"amount": "1"
-	}, {
-		"ingredient": "water",
-		"amount": ""
-	}, {
-		"ingredient": "pepper",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}, {
-		"ingredient": "rosemary",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 6,
-	"imageUrl": "img/Shiro.png",
-	"name": "Shiro wot",
-	"serving": "4",
-	"prepTime": "10 min",
-	"cookingTime": "35 min",
-
-	"type": "maindish",
-	"dietType": "Vegetarian",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "onion",
-		"amount": "1"
-	}, {
-		"ingredient": "oil",
-		"amount": "1/2 cup"
-	}, {
-		"ingredient": "tomato",
-		"amount": "2"
-	}, {
-		"ingredient": "shiro powder",
-		"amount": "1/2 cup"
-	}, {
-		"ingredient": "garlic",
-		"amount": "3 cloves"
-	}, {
-		"ingredient": "water",
-		"amount": "4 cups"
-	}, {
-		"ingredient": "salt",
-		"amount": "2 teaspoons"
-	}, {
-		"ingredient": "jalapeno pepper, sliced. Optional",
-		"amount": "1"
-	}, {
-		"ingredient": "Ethiopian butter. Optional",
-		"amount": "3 tablespoons"
-	}],
-	"directions": [{
-		"step": "Heat oil in a medium sauté pan over medium heat. Add onion; cook until tender."
-	}, {
-		"step": "Add tomato and garlic. Cook until tomatoes are shrivelled, stirring occasionally "
-	}, {
-		"step": "Add water and Shiro. Combine well with mix and cook for 10 minutes"
-	}, {
-		"step": "Lower the heat to medium-low. Add the last three items and cook for another 10 minutes"
-	}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 7,
-	"imageUrl": "img/Temp.png",
-	"name": "Kitfo/Minced beef",
-	"serving": "4",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "maindish",
-	"dietType": "",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "mitmita",
-		"amount": ""
-	}, {
-		"ingredient": "ground pepper",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}, {
-		"ingredient": "Ethiopian butter",
-		"amount": ""
-	}, {
-		"ingredient": "fresh ground beef",
-		"amount": "1 1/2 pounds"
-	}],
-	"directions": [{
-		"step": "Mix the first three ingredients on the pan, add ____ amount of butter and warm with low heat until butter melts completely"
-	}, {
-		"step": "Turn of the heat and mix throughly."
-	}, {
-		"step": "Add the remaining butter and mix well."
-	}, {
-		"step": "Serve food while warm with injera and/or kocho"
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 8,
-	"imageUrl": "img/Temp.png",
-	"name": "Miser Wot (Lentil Sauce)",
-	"serving": "6",
-	"prepTime": "15 minutes",
-	"cookingTime": "45 minutes",
-	"type": "maindish",
-	"dietType": "Vegan",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-	"ingredient": "onion",
-		"amount": "2"
-	}, {
-		"ingredient": "oil",
-		"amount": "1/2 cup"
-	}, {
-		"ingredient": "tomato",
-		"amount": "2"
-	}, {
-		"ingredient": "berbere",
-		"amount": "6 tablespoons"
-	}, {
-		"ingredient": "garlic, minced",
-		"amount": "5 cloves"
-	}, {
-		"ingredient": "Red Lentil, washed",
-		"amount": "2 cups"
-	}, {
-		"ingredient": "water",
-		"amount": "2 cups"
-	}, {
-		"ingredient": "salt",
-		"amount": "3 teaspoons"
-	}, {
-		"ingredient": "jalapeno pepper, sliced (Optional)",
-		"amount": "1"
-	}, {
-		"ingredient": "Ethiopian butter (Optional)",
-		"amount": "3 tablespoons"
-	}],
-	"directions": [{
-		"step": "Heat oil in a medium nonstick pot over medium heat. Add onion; cook until tender."
-	}, {
-		"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding 2 cups of water in small portions and stirring occasionally "
-	}, {
-		"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 3 cups of water and in small portions and stir occasionally for 20 minutes"
-	}, {
-		"step": "Lower the heat to medium-low. Add the last three items and cook for another 5 minutes"
-	}, {
-		"step":"Store leftover in the freezer if used later than the following day"}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 9,
-	"imageUrl": "img/Temp.png",
-	"name": "Siga wot",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "maindish",
-	"dietType": "",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "oil",
-		"amount": ""
-	}, {
-		"ingredient": "onion",
-		"amount": ""
-	}, {
-		"ingredient": "tomato",
-		"amount": ""
-	}, {
-		"ingredient": "minced garlic",
-		"amount": ""
-	}, {
-		"ingredient": "water",
-		"amount": ""
-	}, {
-		"ingredient": "berbere",
-		"amount": ""
-	}, {
-		"ingredient": "beef, cut into cubes",
-		"amount": ""
-	}, {
-		"ingredient": "ground pepper",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}, {
-		"ingredient": "Ethiopian butter",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 10,
-	"imageUrl": "img/Temp.png",
-	"name": "Enqulal Firfir/Scrambled eggs?",
-	"serving": "4",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "breakfast",
-	"dietType": "Vegetarian",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "oil",
-		"amount": ""
-	}, {
-		"ingredient": "onion",
-		"amount": ""
-	}, {
-		"ingredient": "tomato",
-		"amount": ""
-	}, {
-		"ingredient": "eggs",
-		"amount": "8"
-	}, {
-		"ingredient": "jalapeno/serrano pepper",
-		"amount": ""
-	}, {
-		"ingredient": "ground pepper",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 11,
-	"imageUrl": "img/Temp.png",
-	"name": "Ye'tsome Firfir",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "breakfast",
-	"dietType": "Vegan",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "oil",
-		"amount": ""
-	}, {
-		"ingredient": "onion",
-		"amount": ""
-	}, {
-		"ingredient": "tomato",
-		"amount": ""
-	}, {
-		"ingredient": "berbere",
-		"amount": ""
-	}, {
-		"ingredient": "water",
-		"amount": ""
-	}, {
-		"ingredient": "jalapeno/serrano",
-		"amount": ""
-	}, {
-		"ingredient": "ground pepper",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}, {
-		"ingredient": "injera",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 12,
-	"imageUrl": "img/Temp.png",
-	"name": "Kinche",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "breakfast",
-	"dietType": "Vegetarian",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "water",
-		"amount": ""
-	}, {
-		"ingredient": "kinche",
-		"amount": ""
-	}, {
-		"ingredient": "oil",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}, {
-		"ingredient": "Ethiopian butter",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 13,
-	"imageUrl": "img/Temp.png",
-	"name": "Kita Firfir",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "breakfast",
-	"dietType": "Vegetarian",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "flour",
-		"amount": ""
-	}, {
-		"ingredient": "water",
-		"amount": ""
-	}, {
-		"ingredient": "oil",
-		"amount": ""
-	}, {
-		"ingredient": "berbere",
-		"amount": ""
-	}, {
-		"ingredient": "Ethiopian butter",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}, {
-		"ingredient": "honey",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 14,
-	"imageUrl": "img/TimatimSalad.png",
-	"name": "Tomato salad",
-	"serving": "2",
-	"prepTime": "10 min",
-	"cookingTime": "",
-	"type": "sidedish",
-	"dietType": "Vegan",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "salt",
-		"amount": "1 teaspoons"
-	}, {
-		"ingredient": "olive oil",
-		"amount": "3 tablespoons"
-	}, {
-		"ingredient": "black paper",
-		"amount": "1/4 teaspoons"
-	}, {
-		"ingredient": "lime, squeezed",
-		"amount": "1/2"
-	}, {
-		"ingredient": "onion, chopped",
-		"amount": "1/4 cup"
-	}, {
-		"ingredient": "tomato",
-		"amount": "1"
-	}, {
-		"ingredient": "jalapeno/serrano pepper",
-		"amount": "1"
-	}],
-	"directions": [{
-		"step": "Mix the first four items well in a bowl"
-	}, {
-		"step": "Combine the rest of the ingredients with the dressing in the bowl and serve"
-	}],
-	"recipeBy": "",
-	"visible": true
-}, {
-	"id": 15,
-	"imageUrl": "img/Temp.png",
-	"name": "Dinch be'siga wot",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "",
-	"dietType": "",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "oil",
-		"amount": ""
-	}, {
-		"ingredient": "onion",
-		"amount": ""
-	}, {
-		"ingredient": "tomato",
-		"amount": ""
-	}, {
-		"ingredient": "minced garlic",
-		"amount": ""
-	}, {
-		"ingredient": "water",
-		"amount": ""
-	}, {
-		"ingredient": "berbere",
-		"amount": ""
-	}, {
-		"ingredient": "beef, cut into cubes",
-		"amount": ""
-	}, {
-		"ingredient": "ground pepper",
-		"amount": ""
-	}, {
-		"ingredient": "salt",
-		"amount": ""
-	}, {
-		"ingredient": "Ethiopian butter",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 16,
-	"imageUrl": "img/Temp.png",
-	"name": "Awaze (Hot Sauce)",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "sidedish",
-	"dietType": "",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "",
-		"amount": ""
-	}, {
-		"ingredient": "",
-		"amount": ""
-	}, {
-		"ingredient": "",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 6,
-	"imageUrl": "img/BozenaShiro.png",
-	"name": "Bozena Shiro wot",
-	"serving": "4",
-	"prepTime": "10 min",
-	"cookingTime": "35 min",
-
-	"type": "maindish",
-	"dietType": "Vegetarian",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "onion",
-		"amount": "1"
-	}, {
-		"ingredient": "oil",
-		"amount": "1/2 cup"
-	}, {
-		"ingredient": "tomato",
-		"amount": "2"
-	}, {
-		"ingredient": "Shiro powder",
-		"amount": "1/2 cup"
-	}, {
-		"ingredient": "garlic",
-		"amount": "3 cloves"
-	}, {
-		"ingredient": "water",
-		"amount": "4 cups"
-	}, {
-		"ingredient": "salt",
-		"amount": "2 teaspoons"
-	}, {
-		"ingredient": "jalapeno pepper, cleand and sliced. Optional",
-		"amount": "1"
-	}, {
-		"ingredient": "Ethiopian butter. Optional",
-		"amount": "3 tablespoons"
-	}],
-	"directions": [{
-		"step": "Heat oil in a medium sauté pan over medium heat. Add onion; cook until tender."
-	}, {
-		"step": "Add tomato and garlic. Cook until tomatoes are shrivelled, stirring occasionally "
-	}, {
-		"step": "Add water and Shiro. Combine well with mix and cook for 10 minutes"
-	}, {
-		"step": "Lower the heat to medium-low. Add the last three items and cook for another 10 minutes"
-	}],
-	"recipeBy": "",
-	"visible": false
-}, {
-	"id": 17,
-	"imageUrl": "img/Temp.png",
-	"name": "",
-	"serving": "",
-	"prepTime": "",
-	"cookingTime": "",
-	"type": "",
-	"dietType": "",
-	"spicy": 0,
-	"recipeRating": 0,
-	"calories": 0,
-	"ingredients": [{
-		"ingredient": "",
-		"amount": ""
-	}, {
-		"ingredient": "",
-		"amount": ""
-	}, {
-		"ingredient": "",
-		"amount": ""
-	}],
-	"directions": [{
-		"step": ""
-	}, {
-		"step": ""
-	}],
-	"recipeBy": "",
-	"visible": false
-}]
+[
+	{
+		"id": 0,
+		"imageUrl": "img/Salad.png",
+		"name": "Salad",
+		"serving": "4",
+		"prepTime": "10 minutes",
+		"cookingTime": "",
+		"dishType": "sidedish",
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "salt",
+				"amount": "2 tsp"
+			},
+			{
+				"ingredient": "olive oil",
+				"amount": "3 tbsp"
+			},
+			{
+				"ingredient": "black paper",
+				"amount": "1 tsp"
+			},
+			{
+				"ingredient": "lime, squeezed",
+				"amount": "1"
+			},
+			{
+				"ingredient": "onion, chopped",
+				"amount": "1/4 cup"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "romaine lettuce",
+				"amount": "1"
+			},
+			{
+				"ingredient": "jalapeno/serrano pepper, sliced into small peices",
+				"amount": "1"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a medium bowl, mix the first four items well"
+			},
+			{
+				"step": "Combine the rest of the ingredients with mix and serve"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 1,
+		"imageUrl": "img/ayib.png",
+		"name": "Ayib",
+		"serving": "4",
+		"prepTime": "5 min",
+		"cookingTime": "50 min",
+		"dishType": "sidedish",
+		"dietType": "Vegetarian",
+		"spicy": 1,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "low fat milk",
+				"amount": "1/2 gallon"
+			},
+			{
+				"ingredient": "white Vinegar",
+				"amount": "1/3 cup"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a large pot over medium heat, add the milk and Vinegar. Mix the ingredients."
+			},
+			{
+				"step": "Cook for 50 minutes."
+			},
+			{
+				"step": "Strain it until most of the water is drained. Let it cool for atleast 2 hours before serving"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 2,
+		"imageUrl": "img/avocadosalad.png",
+		"name": "Avocado salad",
+		"serving": "4",
+		"prepTime": "10 minutes",
+		"cookingTime": "",
+		"dishType": "sidedish",
+		"dietType": "Vegan",
+		"spicy": 2,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "salt",
+				"amount": "2 tsp"
+			},
+			{
+				"ingredient": "olive oil",
+				"amount": "3 tbsp"
+			},
+			{
+				"ingredient": "black paper",
+				"amount": "1 tsp"
+			},
+			{
+				"ingredient": "lime, squeezed",
+				"amount": "1"
+			},
+			{
+				"ingredient": "onion, chopped",
+				"amount": "1/4 cup"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "avocado",
+				"amount": "1"
+			},
+			{
+				"ingredient": "jalapeno/Serrano pepper",
+				"amount": "1"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a large bowl, mix the first four ingredients."
+			},
+			{
+				"step": "Mix the avocado to the dressing and mash it slightly"
+			},
+			{
+				"step": "Add and mix the rest of the ingredients in the bowl. Then, serve"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 3,
+		"imageUrl": "img/Temp.png",
+		"name": "Kuanta (Dried meat) Firfir",
+		"serving": "3",
+		"prepTime": "10 min",
+		"cookingTime": "30 minutes",
+		"dishType": "breakfast",
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "onion, chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "oil",
+				"amount": "2/3 cup"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "berebere ",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "dried meat/Kuanta, crushed",
+				"amount": "1/4 pounds"
+			},
+			{
+				"ingredient": "garlic, finely chopped",
+				"amount": "3 medium cloves"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "pepper",
+				"amount": "1 teaspoon"
+			},
+			{
+				"ingredient": "Ethiopian butter. Optional",
+				"amount": "2 tbsp"
+			},
+			{
+				"ingredient": "injera",
+				"amount": "1 and 1/4"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tunder."
+			},
+			{
+				"step": "Add the tomato, berebere and 1/3 cup water. Cook for 5 minutes. Then, add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
+			},
+			{
+				"step": "Sprinkle the salt and pepper, add 2 1/2 cup of water and cook for 10 minutes"
+			},
+			{
+				"step": "Serve it with injera or bread"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 4,
+		"imageUrl": "img/TikelGomen.png",
+		"name": "Tikil Gomen/Cabbage",
+		"serving": "6",
+		"prepTime": "10 minutes",
+		"cookingTime": "25 minutes",
+		"dishType": "sidedish",
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "Oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "medium Carrot",
+				"amount": "4"
+			},
+			{
+				"ingredient": "Onion, chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "garlic, finely chopped",
+				"amount": "3"
+			},
+			{
+				"ingredient": "medium Cabbage",
+				"amount": "1"
+			},
+			{
+				"ingredient": "jalapeno pepper",
+				"amount": "1"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": "In a large pot over medium-low heat, Add oil and cook carrot until tender."
+			},
+			{
+				"step": "Add onion and garlic in the pot and cook them until tender. "
+			},
+			{
+				"step": "Add the cabbage with other vegitables and cook for 20 minutes"
+			},
+			{
+				"step": "Add the Jalopeno pepper and salt; and cook for an additional 5 minutes"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 5,
+		"imageUrl": "img/LegaTibes.png",
+		"name": "Tibs",
+		"serving": "3",
+		"prepTime": "10 minutes",
+		"cookingTime": "25 minutes",
+		"dishType": "maindish",
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "Oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "beef cut into 1 inch cubes",
+				"amount": "2 pounds"
+			},
+			{
+				"ingredient": "Onion, chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "garlic, finely chopped",
+				"amount": "5 cloves"
+			},
+			{
+				"ingredient": "tomato, coarsely chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "wine",
+				"amount": "1/2"
+			},
+			{
+				"ingredient": "pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano pepper, sliced",
+				"amount": "1"
+			},
+			{
+				"ingredient": "rosemary",
+				"amount": "2 tbsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "Heat oil in a medium pan over a medium heat"
+			},
+			{
+				"step": "Add beef and cook for 5 minutes while stirring ocassionally. Then, add the onion and garlic to the pan and cook for another 10 minutes."
+			},
+			{
+				"step": "Add the tomato, wine, peper and salt to the mix and cook for another 5 minutes."
+			},
+			{
+				"step": "Put the jalapeno pepper and the rosemary and cook for another 5 minutes. Serve with injera and salad (optional)"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 6,
+		"imageUrl": "img/Shiro.png",
+		"name": "Shiro Wot / Chickpea",
+		"serving": "4",
+		"prepTime": "10 min",
+		"cookingTime": "35 min",
+		"dishType": "maindish",
+		"dietType": "Vegetarian",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "onion",
+				"amount": "1"
+			},
+			{
+				"ingredient": "oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "shiro powder",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "garlic",
+				"amount": "3 cloves"
+			},
+			{
+				"ingredient": "water",
+				"amount": "4 cups"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano pepper, sliced - optional",
+				"amount": "1"
+			},
+			{
+				"ingredient": "Ethiopian butter - optional",
+				"amount": "3 tbsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "Heat oil in a medium sauté pan over medium heat. Add onion; cook until tender."
+			},
+			{
+				"step": "Add tomato and garlic. Cook until tomatoes are shrivelled while stirring occasionally."
+			},
+			{
+				"step": "Add water and Shiro. Combine well with mix and cook for 10 minutes."
+			},
+			{
+				"step": "Lower the heat to low. Add the last three items and cook for another 10 minutes."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 7,
+		"imageUrl": "img/Temp.png",
+		"name": "Kitfo / Beef tartare",
+		"serving": "4",
+		"prepTime": "5 minutes",
+		"cookingTime": "5 minutes",
+		"dishType": "maindish",
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "mitmita",
+				"amount": "2 tsp"
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": "1 1/2 tsp"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Ethiopian butter",
+				"amount": "1 cup"
+			},
+			{
+				"ingredient": "fresh ground beef",
+				"amount": "1 pounds"
+			}
+		],
+		"directions": [
+			{
+				"step": "Put 1/2 cup of butter on the pan and melt it with low heat. Mix the first three ingredients with the melted butter."
+			},
+			{
+				"step": "Turn off the heat and Add the beef and mix throughly. It is important to mix well so the beef contains all the spice and butter."
+			},
+			{
+				"step": "Once you are ready to serve, place the pan on a low heat, add the remaining butter and mix quickly before the meat gets cooked."
+			},
+			{
+				"step": "Serve right away with ayib, injera and/or kocho"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 8,
+		"imageUrl": "img/miser.png",
+		"name": "Miser Wot / Lentil",
+		"serving": "6",
+		"prepTime": "15 minutes",
+		"cookingTime": "45 minutes",
+		"dishType": "maindish",
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "onions, chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "berbere",
+				"amount": "6 tbsp"
+			},
+			{
+				"ingredient": "garlic, minced",
+				"amount": "5 cloves"
+			},
+			{
+				"ingredient": "Red Lentil, washed",
+				"amount": "2 cups"
+			},
+			{
+				"ingredient": "water",
+				"amount": "2 cups"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno pepper, sliced - optional",
+				"amount": "1"
+			},
+			{
+				"ingredient": "Ethiopian butter - optional",
+				"amount": "3 tbsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "Heat oil in a medium nonstick pot over medium heat. Add onion and cook until tender."
+			},
+			{
+				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding 2 cups of water in small portions while stirring occasionally "
+			},
+			{
+				"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 3 cups of water and in small portions and stir occasionally for 20 minutes"
+			},
+			{
+				"step": "Lower the heat to medium-low. Add the last three items and cook for another 5 minutes"
+			},
+			{
+				"step": "Store leftover in the freezer if it will b3 used later than the following day."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 9,
+		"imageUrl": "img/Temp.png",
+		"name": "Siga wot / Spicy beef stew",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": "maindish",
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "minced garlic",
+				"amount": ""
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": ""
+			},
+			{
+				"ingredient": "beef, cut into cubes",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Ethiopian butter",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 10,
+		"imageUrl": "img/EnqulalFirfir.png",
+		"name": "Enqulal Firfir / Scrambled eggs",
+		"serving": "4",
+		"prepTime": "5 minutes",
+		"cookingTime": "15 minutes",
+		"dishType": "breakfast",
+		"dietType": "Vegetarian",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "medium onion",
+				"amount": "1"
+			},
+			{
+				"ingredient": "tomato, coarsely chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "eggs, beaten",
+				"amount": "8"
+			},
+			{
+				"ingredient": "jalapeno pepper, coarsely chopped - optional",
+				"amount": "1"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Pepper to taste",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": "Combine oil and onion on a medium pan and start cooking with medium-low heat until onion becomes tender"
+			},
+			{
+				"step": "Add the tomato and cook until it gets mushy"
+			},
+			{
+				"step": "Put eggs, pepper and salt to the pan and cook for 5 minutes"
+			},
+			{
+				"step": "Add the jalapeno pepper and cook for about 2 minutes"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 11,
+		"imageUrl": "img/Temp.png",
+		"name": "Ye'tsome Firfir",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": "breakfast",
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": ""
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano - optional",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "injera",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 12,
+		"imageUrl": "img/Temp.png",
+		"name": "Bulgur (Kinche)",
+		"serving": "3",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": "breakfast",
+		"dietType": "Vegetarian",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "water",
+				"amount": "3 cups"
+			},
+			{
+				"ingredient": "Bulgur (Kinche), washed",
+				"amount": "1 1⁄2 cups"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Ethiopian butter",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "Mitmita (to taste)",
+				"amount": "1 tsp"
+			},
+			{
+				"ingredient": "Black pepper",
+				"amount": "1 tsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "Combine the bulgur, salt and water in a medium sauce pan. Bring to a boil."
+			},
+			{
+				"step": "Cover, reduce heat, and simmer for 15 minutes or until tender. Drain, if necessary."
+			},
+			{
+				"step": "Melt the butter in a medium pan over low heat. Add Bulgur, mitmita and black pepper to the pan and mix well with the butter"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 13,
+		"imageUrl": "img/Temp.png",
+		"name": "Kita Firfir",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": "breakfast",
+		"dietType": "Vegetarian",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "All-purpose flour",
+				"amount": "2 cups"
+			},
+			{
+				"ingredient": "water",
+				"amount": "3/4 cup"
+			},
+			{
+				"ingredient": "oil",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Ethiopian butter / Olive oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": "1 tbsp or to taste"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "honey",
+				"amount": "1 tbsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a large bowl, combine flour and salt. Stir in water and oil. Turn onto a floured surface; knead 10-12 times, adding a little flour or water if needed to achieve a smooth dough. Divide dough into four portions. On a lightly floured surface, roll each portion into a circle."
+			},
+			{
+				"step": "In a large nonstick skillet coated with 1 tbsp of oil, cook dough over medium heat on each side or until lightly browned. When the temprature of the breadcools, slice the bread into one inch."
+			},
+			{
+				"step": "Melt the butter in a medium pan over low heat. Combine the last three ingredients with butter. Add the sliced bread to the pan and mix well."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 14,
+		"imageUrl": "img/TimatimSalad.png",
+		"name": "Tomato salad",
+		"serving": "2",
+		"prepTime": "10 min",
+		"cookingTime": "",
+		"dishType": "sidedish",
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "salt",
+				"amount": "1 tsp"
+			},
+			{
+				"ingredient": "olive oil",
+				"amount": "3 tbsp"
+			},
+			{
+				"ingredient": "black paper",
+				"amount": "1/4 tsp"
+			},
+			{
+				"ingredient": "lime, squeezed",
+				"amount": "1/2"
+			},
+			{
+				"ingredient": "onion, chopped",
+				"amount": "1/4 cup"
+			},
+			{
+				"ingredient": "tomato, coarsely chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "jalapeno/serrano pepper",
+				"amount": "1"
+			}
+		],
+		"directions": [
+			{
+				"step": "Mix the first four items well in a bowl"
+			},
+			{
+				"step": "Combine the rest of the ingredients with the dressing in the bowl and serve"
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 15,
+		"imageUrl": "img/Temp.png",
+		"name": "Dinch be'siga wot",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": "",
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "minced garlic",
+				"amount": ""
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": ""
+			},
+			{
+				"ingredient": "beef, cut into cubes",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Ethiopian butter",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 16,
+		"imageUrl": "img/awaze.png",
+		"name": "Awaze / Hot sauce",
+		"serving": "",
+		"prepTime": "5 min",
+		"cookingTime": "",
+		"dishType": "Sidedish",
+		"dietType": "Vegan",
+		"spicy": 1,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "Bereber",
+				"amount": "1 Cup"
+			},
+			{
+				"ingredient": "Olive oil",
+				"amount": "1 tbsp"
+			},
+			{
+				"ingredient": "Wine or Tej",
+				"amount": "2 tbsp"
+			},
+			{
+				"ingredient": "Black pepper",
+				"amount": "1/2 tsp"
+			},
+			{
+				"ingredient": "Salt",
+				"amount": "1/2 tsp"
+			},
+			{
+				"ingredient": "Water, warm",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": "In a bowl, mix berbere and water."
+			},
+			{
+				"step": "Combine the rest of the ingredients into the bowl. Mix thourghly"
+			},
+			{
+				"step": "Serve it with Tibs, raw beef or store in covered container and refregrate for future use. "
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 17,
+		"imageUrl": "img/BozenaShiro.png",
+		"name": "Bozena Shiro",
+		"serving": "4",
+		"prepTime": "10 min",
+		"cookingTime": "35 min",
+		"dishType": "maindish",
+		"dietType": "Vegetarian",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "onion",
+				"amount": "1"
+			},
+			{
+				"ingredient": "oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "beef cut into 1 inch cubes",
+				"amount": "1/2 pounds"
+			},
+			{
+				"ingredient": "Shiro powder",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "garlic",
+				"amount": "3 cloves"
+			},
+			{
+				"ingredient": "water",
+				"amount": "4 cups"
+			},
+			{
+				"ingredient": "jalapeno pepper, sliced - optional",
+				"amount": "1"
+			},
+			{
+				"ingredient": "Ethiopian butter - optional",
+				"amount": "3 tbsp"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": "Heat oil in a medium pan over medium heat. Add onion and cook until tender."
+			},
+			{
+				"step": "Add tomato and garlic. Cook until tomatoes are shrivelled, then add meat anc cook for 5 minutes stirring occasionally."
+			},
+			{
+				"step": "Add water and Shiro. Combine well with mix and cook for 10 minutes."
+			},
+			{
+				"step": "Lower the heat to medium-low. Add the last three items and cook for another 10 minutes."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 18,
+		"imageUrl": "img/BesoFirfir.png",
+		"name": "Beso Firfir",
+		"serving": "4",
+		"prepTime": "8 minutes",
+		"cookingTime": "",
+		"dishType": "breakfast",
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "Besso (Ethiopian Roasted Barley Flour)",
+				"amount": "2 cups"
+			},
+			{
+				"ingredient": "mitmita",
+				"amount": "1/4 tsp"
+			},
+			{
+				"ingredient": "sugar",
+				"amount": "1 tbsp"
+			},
+			{
+				"ingredient": "olive oil/Ethiopian butter",
+				"amount": "1/4 cup"
+			},
+			{
+				"ingredient": "water",
+				"amount": "1 cup"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": "Mix the first four items in a bowl"
+			},
+			{
+				"step": "Add the oil/butter into the bowl and mix well"
+			},
+			{
+				"step": "Serve the mix like it is shown on the picture by making a fiest of the mix and squeeze it while turning."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 19,
+		"imageUrl": "img/temp.png",
+		"name": "Stuffed pepper/ Senig kariya",
+		"serving": "4",
+		"prepTime": "5 min",
+		"cookingTime": "",
+		"dishType": "Sidedish",
+		"dietType": "Vegan",
+		"spicy": 1,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "Serrano pepper",
+				"amount": "4"
+			},
+			{
+				"ingredient": "Red Onion, finely chopped",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "Tomato, chopped with out the watery part",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "Black pepper",
+				"amount": "to taste"
+			},
+			{
+				"ingredient": "Salt",
+				"amount": "to taste"
+			},
+			{
+				"ingredient": "Olive oil",
+				"amount": "1 tsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a bowl, combine the onion, tomato, black pepper, salt and oil"
+			},
+			{
+				"step": "Slice the peppers and remove the seeds"
+			},
+			{
+				"step": "Spoon an equal amount of the mixture into each hollowed pepper."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 20,
+		"imageUrl": "img/Temp.png",
+		"name": "",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": "",
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "",
+				"amount": ""
+			},
+			{
+				"ingredient": "",
+				"amount": ""
+			},
+			{
+				"ingredient": "",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	}
+]
