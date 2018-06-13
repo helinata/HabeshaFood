@@ -2,7 +2,7 @@
 	{
 		"id": 0,
 		"imageUrl": "img/Salad.png",
-		"name": "Salad",
+		"name": "Selata / Salad",
 		"serving": "4",
 		"prepTime": "10 minutes",
 		"cookingTime": "",
@@ -41,7 +41,7 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "jalapeno/serrano pepper, sliced into small peices",
+				"ingredient": "Serrano pepper, sliced into small peices",
 				"amount": "1"
 			}
 		],
@@ -59,7 +59,7 @@
 	{
 		"id": 1,
 		"imageUrl": "img/ayib.png",
-		"name": "Ayib",
+		"name": "Ayib / Cottage Cheese",
 		"serving": "4",
 		"prepTime": "5 min",
 		"cookingTime": "50 min",
@@ -94,9 +94,9 @@
 	},
 	{
 		"id": 2,
-		"imageUrl": "img/avocadosalad.png",
-		"name": "Avocado salad",
-		"serving": "4",
+		"imageUrl": "img/avocado-salad.png",
+		"name": "Avocado Selata / Salad",
+		"serving": "2",
 		"prepTime": "10 minutes",
 		"cookingTime": "",
 		"dishType": "sidedish",
@@ -106,28 +106,28 @@
 		"calories": 0,
 		"ingredients": [
 			{
-				"ingredient": "salt",
-				"amount": "2 tsp"
+				"ingredient": "Salt to taste",
+				"amount": ""
 			},
 			{
 				"ingredient": "olive oil",
-				"amount": "3 tbsp"
+				"amount": "1 tbsp"
 			},
 			{
 				"ingredient": "black paper",
-				"amount": "1 tsp"
+				"amount": "1/2 tsp"
 			},
 			{
 				"ingredient": "lime, squeezed",
 				"amount": "1"
 			},
 			{
-				"ingredient": "onion, chopped",
-				"amount": "1/4 cup"
+				"ingredient": "onion, finely chopped",
+				"amount": "2 tbsp"
 			},
 			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": "2"
+				"ingredient": "tomatoe, coarsely chopped",
+				"amount": "1"
 			},
 			{
 				"ingredient": "avocado",
@@ -154,8 +154,8 @@
 	},
 	{
 		"id": 3,
-		"imageUrl": "img/Temp.png",
-		"name": "Kuanta (Dried meat) Firfir",
+		"imageUrl": "img/quanta-firfir.png",
+		"name": "Kuanta (Beef Jerky) Firfir",
 		"serving": "3",
 		"prepTime": "10 min",
 		"cookingTime": "30 minutes",
@@ -226,7 +226,7 @@
 	{
 		"id": 4,
 		"imageUrl": "img/TikelGomen.png",
-		"name": "Tikil Gomen/Cabbage",
+		"name": "Tikil Gomen / Cabbage",
 		"serving": "6",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
@@ -285,7 +285,7 @@
 	{
 		"id": 5,
 		"imageUrl": "img/LegaTibes.png",
-		"name": "Tibs",
+		"name": "Tibs / Beef Stew",
 		"serving": "3",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
@@ -300,7 +300,7 @@
 				"amount": "1/2 cup"
 			},
 			{
-				"ingredient": "beef cut into 1 inch cubes",
+				"ingredient": "Beef, cut into 1 inch cubes",
 				"amount": "2 pounds"
 			},
 			{
@@ -422,8 +422,8 @@
 	},
 	{
 		"id": 7,
-		"imageUrl": "img/Temp.png",
-		"name": "Kitfo / Beef tartare",
+		"imageUrl": "img/kitfo.png",
+		"name": "Kitfo / Beef Tartare",
 		"serving": "4",
 		"prepTime": "5 minutes",
 		"cookingTime": "5 minutes",
@@ -547,8 +547,8 @@
 	},
 	{
 		"id": 9,
-		"imageUrl": "img/Temp.png",
-		"name": "Siga wot / Spicy beef stew",
+		"imageUrl": "",
+		"name": "Siga Wot / Spicy Beef Stew",
 		"serving": "",
 		"prepTime": "",
 		"cookingTime": "",
@@ -613,7 +613,7 @@
 	{
 		"id": 10,
 		"imageUrl": "img/EnqulalFirfir.png",
-		"name": "Enqulal Firfir / Scrambled eggs",
+		"name": "Enqulal Firfir / Scrambled Eggs",
 		"serving": "4",
 		"prepTime": "5 minutes",
 		"cookingTime": "15 minutes",
@@ -671,7 +671,7 @@
 	},
 	{
 		"id": 11,
-		"imageUrl": "img/Temp.png",
+		"imageUrl": "",
 		"name": "Ye'tsome Firfir",
 		"serving": "",
 		"prepTime": "",
@@ -732,8 +732,8 @@
 	},
 	{
 		"id": 12,
-		"imageUrl": "img/Temp.png",
-		"name": "Bulgur (Kinche)",
+		"imageUrl": "img/kinche.png",
+		"name": "Kinche / Bulgur",
 		"serving": "3",
 		"prepTime": "",
 		"cookingTime": "",
@@ -784,11 +784,11 @@
 	},
 	{
 		"id": 13,
-		"imageUrl": "img/Temp.png",
-		"name": "Kita Firfir",
+		"imageUrl": "img/chechbesa.png",
+		"name": "Chechebsa / Spicy Bread",
 		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
+		"prepTime": "5 minutes",
+		"cookingTime": "25 minutes",
 		"dishType": "breakfast",
 		"dietType": "Vegetarian",
 		"spicy": 0,
@@ -805,7 +805,7 @@
 			},
 			{
 				"ingredient": "oil",
-				"amount": "4 tbsp"
+				"amount": "3 tbsp"
 			},
 			{
 				"ingredient": "Salt to taste",
@@ -813,11 +813,11 @@
 			},
 			{
 				"ingredient": "Ethiopian butter / Olive oil",
-				"amount": ""
+				"amount": "4 tbsp"
 			},
 			{
 				"ingredient": "berbere",
-				"amount": "1 tbsp or to taste"
+				"amount": "1/2 tbsp"
 			},
 			{
 				"ingredient": "Salt to taste",
@@ -830,13 +830,13 @@
 		],
 		"directions": [
 			{
-				"step": "In a large bowl, combine flour and salt. Stir in water and oil. Turn onto a floured surface; knead 10-12 times, adding a little flour or water if needed to achieve a smooth dough. Divide dough into four portions. On a lightly floured surface, roll each portion into a circle."
+				"step": "In a large bowl, combine flour and salt. Stir in water and 1 tbsp oil. Turn onto a floured surface; knead 10-12 times, adding a little flour or water if needed to achieve a smooth dough. Divide dough into four portions. On a lightly floured surface, roll each portion into a circle."
 			},
 			{
-				"step": "In a large nonstick skillet coated with 1 tbsp of oil, cook dough over medium heat on each side or until lightly browned. When the temprature of the breadcools, slice the bread into one inch."
+				"step": "In a large nonstick skillet coated with 1 tbsp of oil, cook dough over low heat on each side or until lightly browned. When the temprature of the breadcools, slice the bread into one inch."
 			},
 			{
-				"step": "Melt the butter in a medium pan over low heat. Combine the last three ingredients with butter. Add the sliced bread to the pan and mix well."
+				"step": "Melt the butter in a pan over low heat. Combine the last three ingredients with butter. Add the sliced bread to the pan and mix well."
 			}
 		],
 		"recipeBy": "",
@@ -845,7 +845,7 @@
 	{
 		"id": 14,
 		"imageUrl": "img/TimatimSalad.png",
-		"name": "Tomato salad",
+		"name": "Timatim Selata / Tomato Salad",
 		"serving": "2",
 		"prepTime": "10 min",
 		"cookingTime": "",
@@ -897,8 +897,8 @@
 	},
 	{
 		"id": 15,
-		"imageUrl": "img/Temp.png",
-		"name": "Dinch be'siga wot",
+		"imageUrl": "",
+		"name": "Dinch Be'siga Wot",
 		"serving": "",
 		"prepTime": "",
 		"cookingTime": "",
@@ -975,7 +975,7 @@
 	{
 		"id": 16,
 		"imageUrl": "img/awaze.png",
-		"name": "Awaze / Hot sauce",
+		"name": "Awaze / Hot Sauce",
 		"serving": "",
 		"prepTime": "5 min",
 		"cookingTime": "",
@@ -987,7 +987,7 @@
 		"ingredients": [
 			{
 				"ingredient": "Bereber",
-				"amount": "1 Cup"
+				"amount": "1 cup"
 			},
 			{
 				"ingredient": "Olive oil",
@@ -1006,16 +1006,16 @@
 				"amount": "1/2 tsp"
 			},
 			{
-				"ingredient": "Water, warm",
-				"amount": ""
+				"ingredient": "Warm water",
+				"amount": "1 cup"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a bowl, mix berbere and water."
+				"step": "In a bowl, mix berbere, salt and pepper."
 			},
 			{
-				"step": "Combine the rest of the ingredients into the bowl. Mix thourghly"
+				"step": "Add the rest of the ingredients into the bowl. Mix thourghly"
 			},
 			{
 				"step": "Serve it with Tibs, raw beef or store in covered container and refregrate for future use. "
@@ -1149,8 +1149,8 @@
 	},
 	{
 		"id": 19,
-		"imageUrl": "img/temp.png",
-		"name": "Stuffed pepper/ Senig kariya",
+		"imageUrl": "img/senig-kariya.png",
+		"name": "Senig Kariya / Stuffed Serrano Pepper",
 		"serving": "4",
 		"prepTime": "5 min",
 		"cookingTime": "",
@@ -1165,20 +1165,20 @@
 				"amount": "4"
 			},
 			{
-				"ingredient": "Red Onion, finely chopped",
+				"ingredient": "Onion, finely chopped",
 				"amount": "4 tbsp"
 			},
 			{
-				"ingredient": "Tomato, chopped with out the watery part",
+				"ingredient": "Tomato, chopped without the watery part",
 				"amount": "4 tbsp"
 			},
 			{
 				"ingredient": "Black pepper",
-				"amount": "to taste"
+				"amount": "1/2 tsp"
 			},
 			{
-				"ingredient": "Salt",
-				"amount": "to taste"
+				"ingredient": "Salt to taste",
+				"amount": ""
 			},
 			{
 				"ingredient": "Olive oil",
@@ -1201,8 +1201,45 @@
 	},
 	{
 		"id": 20,
-		"imageUrl": "img/Temp.png",
+		"imageUrl": "",
 		"name": "",
+		"serving": "",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": "",
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "",
+				"amount": ""
+			},
+			{
+				"ingredient": "",
+				"amount": ""
+			},
+			{
+				"ingredient": "",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 20,
+		"imageUrl": "",
+		"name": "Genfo",
 		"serving": "",
 		"prepTime": "",
 		"cookingTime": "",

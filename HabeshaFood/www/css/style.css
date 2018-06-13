@@ -1,29 +1,50 @@
 /* Empty. Add your own CSS if you like */
+
 .header-style1 {
-	font-size: 16px;
+    font-size: 16px;
     /* font-weight: bold; */
     font-style: italic;
     padding-top: 15px;
 }
 
-.ingredients li{
-	padding-top: 7px;
-	padding-bottom: 7px;
+.ingredients li {
+    padding-top: 7px;
+    padding-bottom: 7px;
 }
 
 .steps li {
-	padding: 1px 5px;
+    padding: 1px 5px;
 }
 
 .side-space {
-	margin: 15px;
+    margin: 15px;
 }
 
 .dish-type .item {
     font-size: 24px;
-    text-align: center;    
+    text-align: center;
 }
 
 .dish-type .item {
-	height: 150px;
+    height: 150px;
+  
+}
+.dish-type div {
+    line-height: 130px; 
+    vertical-align: middle;
+}
+.odd {
+    background-color: #FFFFE0;
+    font-weight: 500;
+
+}
+
+.even {
+    background-color: #CCCC00;
+    font-weight: 500;
+
+}
+.bold
+{
+    font-weight: bold;
 }
