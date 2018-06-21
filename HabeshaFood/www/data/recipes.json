@@ -1,8 +1,8 @@
 [
 	{
 		"id": 0,
-		"imageUrl": "img/Salad.png",
-		"name": "Selata / Salad",
+		"imageUrl": "img/salad.png",
+		"name": "Selata | Salad",
 		"serving": "4",
 		"prepTime": "10 minutes",
 		"cookingTime": "",
@@ -59,7 +59,7 @@
 	{
 		"id": 1,
 		"imageUrl": "img/ayib.png",
-		"name": "Ayib / Cottage Cheese",
+		"name": "Ayib | Cottage Cheese",
 		"serving": "4",
 		"prepTime": "5 min",
 		"cookingTime": "50 min",
@@ -95,7 +95,7 @@
 	{
 		"id": 2,
 		"imageUrl": "img/avocado-salad.png",
-		"name": "Avocado Selata / Salad",
+		"name": "Avocado Selata | Salad",
 		"serving": "2",
 		"prepTime": "10 minutes",
 		"cookingTime": "",
@@ -226,7 +226,7 @@
 	{
 		"id": 4,
 		"imageUrl": "img/TikelGomen.png",
-		"name": "Tikil Gomen / Cabbage",
+		"name": "Tikil Gomen | Cabbage",
 		"serving": "6",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
@@ -285,7 +285,7 @@
 	{
 		"id": 5,
 		"imageUrl": "img/LegaTibes.png",
-		"name": "Tibs / Beef Stew",
+		"name": "Tibs | Beef Stew",
 		"serving": "3",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
@@ -356,7 +356,7 @@
 	{
 		"id": 6,
 		"imageUrl": "img/Shiro.png",
-		"name": "Shiro Wot / Chickpea",
+		"name": "Shiro Wot | Chickpea",
 		"serving": "4",
 		"prepTime": "10 min",
 		"cookingTime": "35 min",
@@ -423,7 +423,7 @@
 	{
 		"id": 7,
 		"imageUrl": "img/kitfo.png",
-		"name": "Kitfo / Beef Tartare",
+		"name": "Kitfo | Beef Tartare",
 		"serving": "4",
 		"prepTime": "5 minutes",
 		"cookingTime": "5 minutes",
@@ -474,7 +474,7 @@
 	{
 		"id": 8,
 		"imageUrl": "img/miser.png",
-		"name": "Miser Wot / Lentil",
+		"name": "Miser Wot | Lentil",
 		"serving": "6",
 		"prepTime": "15 minutes",
 		"cookingTime": "45 minutes",
@@ -548,7 +548,7 @@
 	{
 		"id": 9,
 		"imageUrl": "",
-		"name": "Siga Wot / Spicy Beef Stew",
+		"name": "Siga Wot | Spicy Beef Stew",
 		"serving": "",
 		"prepTime": "",
 		"cookingTime": "",
@@ -613,7 +613,7 @@
 	{
 		"id": 10,
 		"imageUrl": "img/EnqulalFirfir.png",
-		"name": "Enqulal Firfir / Scrambled Eggs",
+		"name": "Enqulal Firfir | Scrambled Eggs",
 		"serving": "4",
 		"prepTime": "5 minutes",
 		"cookingTime": "15 minutes",
@@ -733,7 +733,7 @@
 	{
 		"id": 12,
 		"imageUrl": "img/kinche.png",
-		"name": "Kinche / Bulgur",
+		"name": "Kinche | Bulgur",
 		"serving": "3",
 		"prepTime": "",
 		"cookingTime": "",
@@ -785,7 +785,7 @@
 	{
 		"id": 13,
 		"imageUrl": "img/chechbesa.png",
-		"name": "Chechebsa / Spicy Bread",
+		"name": "Chechebsa | Spicy Bread",
 		"serving": "",
 		"prepTime": "5 minutes",
 		"cookingTime": "25 minutes",
@@ -812,7 +812,7 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "Ethiopian butter / Olive oil",
+				"ingredient": "Ethiopian butter or Olive oil",
 				"amount": "4 tbsp"
 			},
 			{
@@ -845,7 +845,7 @@
 	{
 		"id": 14,
 		"imageUrl": "img/TimatimSalad.png",
-		"name": "Timatim Selata / Tomato Salad",
+		"name": "Timatim Selata | Tomato Salad",
 		"serving": "2",
 		"prepTime": "10 min",
 		"cookingTime": "",
@@ -899,7 +899,7 @@
 		"id": 15,
 		"imageUrl": "",
 		"name": "Dinch Be'siga Wot",
-		"serving": "",
+		"serving": "8",
 		"prepTime": "",
 		"cookingTime": "",
 		"dishType": "",
@@ -910,19 +910,19 @@
 		"ingredients": [
 			{
 				"ingredient": "oil",
-				"amount": ""
+				"amount": "1/2 cup"
 			},
 			{
 				"ingredient": "onion",
-				"amount": ""
+				"amount": "3"
 			},
 			{
 				"ingredient": "tomatoes, coarsely chopped",
-				"amount": ""
+				"amount": "2"
 			},
 			{
 				"ingredient": "minced garlic",
-				"amount": ""
+				"amount": "1 tbsp"
 			},
 			{
 				"ingredient": "water",
@@ -930,15 +930,15 @@
 			},
 			{
 				"ingredient": "berbere",
-				"amount": ""
+				"amount": "3 tbsp"
 			},
 			{
 				"ingredient": "beef, cut into cubes",
-				"amount": ""
+				"amount": "1 pound"
 			},
 			{
 				"ingredient": "ground pepper",
-				"amount": ""
+				"amount": "1 tsp"
 			},
 			{
 				"ingredient": "Salt to taste",
@@ -946,7 +946,7 @@
 			},
 			{
 				"ingredient": "Ethiopian butter",
-				"amount": ""
+				"amount": "3 tbsp"
 			}
 		],
 		"directions": [
@@ -975,7 +975,7 @@
 	{
 		"id": 16,
 		"imageUrl": "img/awaze.png",
-		"name": "Awaze / Hot Sauce",
+		"name": "Awaze | Hot Sauce",
 		"serving": "",
 		"prepTime": "5 min",
 		"cookingTime": "",
@@ -1150,7 +1150,7 @@
 	{
 		"id": 19,
 		"imageUrl": "img/senig-kariya.png",
-		"name": "Senig Kariya / Stuffed Serrano Pepper",
+		"name": "Senig Kariya | Stuffed Serrano Pepper",
 		"serving": "4",
 		"prepTime": "5 min",
 		"cookingTime": "",
