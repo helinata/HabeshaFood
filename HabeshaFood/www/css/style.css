@@ -17,7 +17,8 @@
 }
 
 .side-space {
-    margin: 15px;
+    padding: 20px;
+
 }
 
 .dish-type .item {
@@ -26,7 +27,7 @@
 }
 
 .dish-type .item {
-    height: 150px;
+    height: 130px;
   
 }
 .dish-type div {
