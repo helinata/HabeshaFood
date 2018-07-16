@@ -1,28 +1,28 @@
-<ion-view view-title="Recipe">
-  	<ion-content>
-  	<div class="item item-thumbnail-left">
-	   	<img ng-src="{{recipe.imageUrl}}" alt="{{recipe.name}}" />
-		<h3>{{recipe.name}}</h3>
-		<p>Serving: {{recipe.serving}}
-		<!-- <p>Diet Type: {{recipe.dietType}}</p> -->
-		<p>Prepatration Time: {{recipe.prepTime}}</p>
-		<p>{{cookingTimeTitle}}{{cookingTime}}</p>
-	</div>
-	<div class="side-space">
-	<p class="header-style1">Ingredients</p>
-		<ul class="ingredients">
-	   		<li class="item"  ng-repeat="item in recipe.ingredients">  
-	   			<p>{{item.amount}} {{item.ingredient}}</p>
-			</li>
-		</ul>
+<ion-view>
+	
+	<ion-content>
+		<div class="item item-thumbnail-left">
+			<img ng-src="{{recipe.imageUrl}}" alt="{{recipe.name}}" />
+			<h3>{{recipe.name}}</h3>
+			<p>Serving: {{recipe.serving}}
+				<!-- <p>Diet Type: {{recipe.dietType}}</p> -->
+				<p>Prepatration Time: {{recipe.prepTime}}</p>
+				<p>{{cookingTimeTitle}}{{cookingTime}}</p>
+		</div>
+		<div class="side-space">
+			<p class="header-style1">Ingredients</p>
+			<ul class="ingredients">
+				<li class="item" ng-repeat="item in recipe.ingredients">
+					<p>{{item.amount}} {{item.ingredient}}</p>
+				</li>
+			</ul>
 
-		<p class="header-style1">Steps</p>
-		<ul class="steps">
-	   		<li ng-repeat="item in recipe.directions">   	
-      			<p>{{item.step}}</p>
-			</li>
-		</ul>
+			<p class="header-style1">Steps</p>
+			<ul class="steps">
+				<li ng-repeat="item in recipe.directions">
+					<p>{{item.step}}</p>
+				</li>
+			</ul>
 		</div>
 	</ion-content>
 </ion-view>
-

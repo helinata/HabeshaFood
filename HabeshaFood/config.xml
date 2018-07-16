@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.helinaatsebha.habeshafood" version="1.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.helinaatsebha.habeshafood" version="1.1.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>HabeshaFood</name>
     <description> This app provides recipes for Ethiopian/Eritrean cuisine.</description>
     <author email="linaatsebha@gmail.com" href="">Helina Atsebha</author>
@@ -76,10 +76,16 @@
         <splash height="480" src="resources/ios/splash/Default~iphone.png" width="320" />
         <splash height="2732" src="resources/ios/splash/Default@2x~universal~anyany.png" width="2732" />
     </platform>
-    <plugin name="cordova-plugin-whitelist" spec="1.3.3" />
-    <plugin name="cordova-plugin-device" spec="2.0.2" />
-    <plugin name="cordova-plugin-splashscreen" spec="5.0.2" />
-    <plugin name="cordova-plugin-ionic-webview" spec="1.1.19" />
-    <plugin name="cordova-plugin-ionic-keyboard" spec="2.0.5" />
-    <engine name="ios" spec="~4.5.4" />
+    <feature name="SocialSharing">
+        <param name="ios-package" value="SocialSharing" />
+    </feature>
+    <plugin name="cordova-plugin-whitelist" spec="~1.3.3" />
+    <plugin name="cordova-plugin-device" spec="~2.0.2" />
+    <plugin name="cordova-plugin-splashscreen" spec="~5.0.2" />
+    <plugin name="cordova-plugin-ionic-webview" spec="~1.1.19" />
+    <plugin name="cordova-plugin-ionic-keyboard" spec="~2.0.5" />
+    <plugin name="cordova-plugin-x-socialsharing" spec="^5.4.1" />
+    <allow-navigation href="http://10.0.0.18:8100" />
+    <engine name="android" spec="~7.0.0" />
+    <engine name="ios" spec="^4.5.4" />
 </widget>

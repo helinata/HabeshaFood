@@ -18,7 +18,10 @@
 
 .side-space {
     padding: 20px;
+}
 
+.side-space p {
+    font-size: 15px;
 }
 
 .dish-type .item {
@@ -28,24 +31,48 @@
 
 .dish-type .item {
     height: 130px;
-  
 }
+
 .dish-type div {
-    line-height: 130px; 
+    line-height: 130px;
     vertical-align: middle;
 }
+
 .odd {
     background-color: #FFFFE0;
     font-weight: 500;
-
 }
 
 .even {
     background-color: #CCCC00;
     font-weight: 500;
-
 }
-.bold
-{
+
+.bold {
     font-weight: bold;
+}
+
+.filterList {
+    padding: 10px;
+}
+
+.popover {
+    height: 180px;
+}
+
+.list .dietList {
+    font-size: 12px;
+}
+
+.dietList {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#filter {
+    padding-top: 3px;
+}
+
+#filter button {
+    zoom: 0.9;
 }

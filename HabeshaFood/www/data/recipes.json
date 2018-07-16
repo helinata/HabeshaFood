@@ -126,7 +126,7 @@
 				"amount": "2 tbsp"
 			},
 			{
-				"ingredient": "tomatoe, coarsely chopped",
+				"ingredient": "tomato, coarsely chopped",
 				"amount": "1"
 			},
 			{
@@ -160,7 +160,7 @@
 		"prepTime": "10 min",
 		"cookingTime": "30 minutes",
 		"dishType": "breakfast",
-		"dietType": "",
+		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
 		"calories": 0,
@@ -290,7 +290,7 @@
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
 		"dishType": "maindish",
-		"dietType": "",
+		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
 		"calories": 0,
@@ -428,7 +428,7 @@
 		"prepTime": "5 minutes",
 		"cookingTime": "5 minutes",
 		"dishType": "maindish",
-		"dietType": "",
+		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
 		"calories": 0,
@@ -490,15 +490,15 @@
 			},
 			{
 				"ingredient": "oil",
-				"amount": "1/2 cup"
+				"amount": "3/4 cup"
 			},
 			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": "2"
+				"ingredient": "tomatoe, coarsely chopped",
+				"amount": "1"
 			},
 			{
 				"ingredient": "berbere",
-				"amount": "6 tbsp"
+				"amount": "4 tbsp"
 			},
 			{
 				"ingredient": "garlic, minced",
@@ -510,7 +510,7 @@
 			},
 			{
 				"ingredient": "water",
-				"amount": "2 cups"
+				"amount": "4 cups"
 			},
 			{
 				"ingredient": "Salt to taste",
@@ -527,88 +527,23 @@
 		],
 		"directions": [
 			{
-				"step": "Heat oil in a medium nonstick pot over medium heat. Add onion and cook until tender."
+				"step": "Heat oil in a medium-low nonstick pot over medium heat. Add onion and cook until tender."
 			},
 			{
-				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding 2 cups of water in small portions while stirring occasionally "
+				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding a cup of water in small portions while stirring occasionally "
 			},
 			{
-				"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 3 cups of water and in small portions and stir occasionally for 20 minutes"
+				"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 4 cups of water and in small portions and stir occasionally for 15 minutes"
 			},
 			{
-				"step": "Lower the heat to medium-low. Add the last three items and cook for another 5 minutes"
+				"step": "Lower the heat to low. Add the last three items and cook for another 5 minutes"
 			},
 			{
-				"step": "Store leftover in the freezer if it will b3 used later than the following day."
+				"step": "Store leftover in the freezer if it will be used later than the following day."
 			}
 		],
 		"recipeBy": "",
 		"visible": true
-	},
-	{
-		"id": 9,
-		"imageUrl": "",
-		"name": "Siga Wot | Spicy Beef Stew",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": "maindish",
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "oil",
-				"amount": ""
-			},
-			{
-				"ingredient": "onion",
-				"amount": ""
-			},
-			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": ""
-			},
-			{
-				"ingredient": "minced garlic",
-				"amount": ""
-			},
-			{
-				"ingredient": "water",
-				"amount": ""
-			},
-			{
-				"ingredient": "berbere",
-				"amount": ""
-			},
-			{
-				"ingredient": "beef, cut into cubes",
-				"amount": ""
-			},
-			{
-				"ingredient": "ground pepper",
-				"amount": ""
-			},
-			{
-				"ingredient": "Salt to taste",
-				"amount": ""
-			},
-			{
-				"ingredient": "Ethiopian butter",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
 	},
 	{
 		"id": 10,
@@ -670,67 +605,6 @@
 		"visible": true
 	},
 	{
-		"id": 11,
-		"imageUrl": "",
-		"name": "Ye'tsome Firfir",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": "breakfast",
-		"dietType": "Vegan",
-		"spicy": 0,
-		"recipeRating": 0,
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "oil",
-				"amount": ""
-			},
-			{
-				"ingredient": "onion",
-				"amount": ""
-			},
-			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": ""
-			},
-			{
-				"ingredient": "berbere",
-				"amount": ""
-			},
-			{
-				"ingredient": "water",
-				"amount": ""
-			},
-			{
-				"ingredient": "jalapeno/serrano - optional",
-				"amount": ""
-			},
-			{
-				"ingredient": "ground pepper",
-				"amount": ""
-			},
-			{
-				"ingredient": "Salt to taste",
-				"amount": ""
-			},
-			{
-				"ingredient": "injera",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
-	},
-	{
 		"id": 12,
 		"imageUrl": "img/kinche.png",
 		"name": "Kinche | Bulgur",
@@ -745,10 +619,10 @@
 		"ingredients": [
 			{
 				"ingredient": "water",
-				"amount": "3 cups"
+				"amount": "4 cups"
 			},
 			{
-				"ingredient": "Bulgur (Kinche), washed",
+				"ingredient": "Bulgur, washed",
 				"amount": "1 1⁄2 cups"
 			},
 			{
@@ -773,10 +647,10 @@
 				"step": "Combine the bulgur, salt and water in a medium sauce pan. Bring to a boil."
 			},
 			{
-				"step": "Cover, reduce heat, and simmer for 15 minutes or until tender. Drain, if necessary."
+				"step": "Cover, reduce heat to low, and simmer until tender. Drain, if necessary."
 			},
 			{
-				"step": "Melt the butter in a medium pan over low heat. Add Bulgur, mitmita and black pepper to the pan and mix well with the butter"
+				"step": "Melt the butter in a medium pan over low heat. Mix mitmita and black pepper with butter, add the bulger to the pan and combine well with the butter mix"
 			}
 		],
 		"recipeBy": "",
@@ -894,83 +768,6 @@
 		],
 		"recipeBy": "",
 		"visible": true
-	},
-	{
-		"id": 15,
-		"imageUrl": "",
-		"name": "Dinch Be'siga Wot",
-		"serving": "8",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": "",
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "oil",
-				"amount": "1/2 cup"
-			},
-			{
-				"ingredient": "onion",
-				"amount": "3"
-			},
-			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": "2"
-			},
-			{
-				"ingredient": "minced garlic",
-				"amount": "1 tbsp"
-			},
-			{
-				"ingredient": "water",
-				"amount": ""
-			},
-			{
-				"ingredient": "berbere",
-				"amount": "3 tbsp"
-			},
-			{
-				"ingredient": "beef, cut into cubes",
-				"amount": "1 pound"
-			},
-			{
-				"ingredient": "ground pepper",
-				"amount": "1 tsp"
-			},
-			{
-				"ingredient": "Salt to taste",
-				"amount": ""
-			},
-			{
-				"ingredient": "Ethiopian butter",
-				"amount": "3 tbsp"
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
 	},
 	{
 		"id": 16,
@@ -1154,7 +951,7 @@
 		"serving": "4",
 		"prepTime": "5 min",
 		"cookingTime": "",
-		"dishType": "Sidedish",
+		"dishType": "sidedish",
 		"dietType": "Vegan",
 		"spicy": 1,
 		"recipeRating": 0,
@@ -1198,79 +995,5 @@
 		],
 		"recipeBy": "",
 		"visible": true
-	},
-	{
-		"id": 20,
-		"imageUrl": "",
-		"name": "",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": "",
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
-	},
-	{
-		"id": 20,
-		"imageUrl": "",
-		"name": "Genfo",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": "",
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
 	}
 ]
