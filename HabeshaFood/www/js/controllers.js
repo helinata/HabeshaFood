@@ -48,12 +48,13 @@ angular.module('starter.controllers', [])
     // };
   })
 
+
   .controller('RecipeCtrl', function ($scope, $http, $location) {
     var recipeId = $location.search()['id'];
 
     $http.get('data/recipes.json')
       .then(function (response) {
-        var id = parseInt(recipeId);
+        var id = parseInt(recipeId) -1;
         $scope.recipe = response.data[id];
         if (response.data[id].cookingTime) {
           $scope.cookingTimeTitle = "Cooking Time: ";

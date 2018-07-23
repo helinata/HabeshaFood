@@ -1,7 +1,7 @@
 [
 	{
-		"id": 0,
-		"imageUrl": "img/salad.png",
+		"id": 1,
+		"imageUrl": "img/selata.png",
 		"name": "Selata | Salad",
 		"serving": "4",
 		"prepTime": "10 minutes",
@@ -57,44 +57,8 @@
 		"visible": true
 	},
 	{
-		"id": 1,
-		"imageUrl": "img/ayib.png",
-		"name": "Ayib | Cottage Cheese",
-		"serving": "4",
-		"prepTime": "5 min",
-		"cookingTime": "50 min",
-		"dishType": "sidedish",
-		"dietType": "Vegetarian",
-		"spicy": 1,
-		"recipeRating": 0,
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "low fat milk",
-				"amount": "1/2 gallon"
-			},
-			{
-				"ingredient": "white Vinegar",
-				"amount": "1/3 cup"
-			}
-		],
-		"directions": [
-			{
-				"step": "In a large pot over medium heat, add the milk and Vinegar. Mix the ingredients."
-			},
-			{
-				"step": "Cook for 50 minutes."
-			},
-			{
-				"step": "Strain it until most of the water is drained. Let it cool for atleast 2 hours before serving"
-			}
-		],
-		"recipeBy": "",
-		"visible": true
-	},
-	{
 		"id": 2,
-		"imageUrl": "img/avocado-salad.png",
+		"imageUrl": "img/avocado-selata.png",
 		"name": "Avocado Selata | Salad",
 		"serving": "2",
 		"prepTime": "10 minutes",
@@ -380,7 +344,7 @@
 			},
 			{
 				"ingredient": "shiro powder",
-				"amount": "1/2 cup"
+				"amount": "1 cup"
 			},
 			{
 				"ingredient": "garlic",
@@ -388,7 +352,7 @@
 			},
 			{
 				"ingredient": "water",
-				"amount": "4 cups"
+				"amount": "5 cups"
 			},
 			{
 				"ingredient": "Salt to taste",
@@ -473,7 +437,7 @@
 	},
 	{
 		"id": 8,
-		"imageUrl": "img/miser.png",
+		"imageUrl": "img/miser-wot.png",
 		"name": "Miser Wot | Lentil",
 		"serving": "6",
 		"prepTime": "15 minutes",
@@ -771,7 +735,7 @@
 	},
 	{
 		"id": 16,
-		"imageUrl": "img/awaze.png",
+		"imageUrl": "img/awaze-sauce.png",
 		"name": "Awaze | Hot Sauce",
 		"serving": "",
 		"prepTime": "5 min",
