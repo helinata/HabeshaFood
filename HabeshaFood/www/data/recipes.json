@@ -6,7 +6,9 @@
 		"serving": "4",
 		"prepTime": "10 minutes",
 		"cookingTime": "",
-		"dishType": "sidedish",
+		"dishType": [
+			"sidedish"
+		],
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -63,7 +65,9 @@
 		"serving": "2",
 		"prepTime": "10 minutes",
 		"cookingTime": "",
-		"dishType": "sidedish",
+		"dishType": [
+			"sidedish"
+		],
 		"dietType": "Vegan",
 		"spicy": 2,
 		"recipeRating": 0,
@@ -123,7 +127,10 @@
 		"serving": "3",
 		"prepTime": "10 min",
 		"cookingTime": "30 minutes",
-		"dishType": "breakfast",
+		"dishType": [
+			"breakfast",
+			"maindish"
+		],
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -194,7 +201,9 @@
 		"serving": "6",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
-		"dishType": "sidedish",
+		"dishType": [
+			"sidedish"
+		],
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -253,7 +262,9 @@
 		"serving": "3",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
-		"dishType": "maindish",
+		"dishType": [
+			"maindish"
+		],
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -324,7 +335,9 @@
 		"serving": "4",
 		"prepTime": "10 min",
 		"cookingTime": "35 min",
-		"dishType": "maindish",
+		"dishType": [
+			"maindish"
+		],
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -387,11 +400,13 @@
 	{
 		"id": 7,
 		"imageUrl": "img/kitfo.png",
-		"name": "Kitfo | Beef Tartare",
+		"name": "Kitfo | Beef Tartar",
 		"serving": "4",
 		"prepTime": "5 minutes",
 		"cookingTime": "5 minutes",
-		"dishType": "maindish",
+		"dishType": [
+			"maindish"
+		],
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -410,26 +425,26 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "Ethiopian butter",
+				"ingredient": "Ethiopian clarified butter",
 				"amount": "1 cup"
 			},
 			{
-				"ingredient": "fresh ground beef",
+				"ingredient": "beef, finely minced",
 				"amount": "1 pounds"
 			}
 		],
 		"directions": [
 			{
-				"step": "Put 1/2 cup of butter on the pan and melt it with low heat. Mix the first three ingredients with the melted butter."
+				"step": "This classic Ethiopian is a spicy beef that is traditionally served raw but can be served cooked. Kitfo is typically served with collard greens (gomen) and Ethiopian cheese (ayib) as well as some form of bread, either a traditional flatbread (injera) or a bread made from the banana-like enset plant."
 			},
 			{
-				"step": "Turn off the heat and Add the beef and mix throughly. It is important to mix well so the beef contains all the spice and butter."
+				"step": "In small pot, on a lower heat melt the butter. add the mitmita, ground pepper, salt then remove from heat."
 			},
 			{
-				"step": "Once you are ready to serve, place the pan on a low heat, add the remaining butter and mix quickly before the meat gets cooked."
+				"step": "Using a mixing utensils, combine the ground meat with the spicy butter; It is important to thoroughly mix so the beef contains all the spice and butter. If preferred, cook the marinated meat for few more minutes until desired."
 			},
 			{
-				"step": "Serve right away with ayib, injera and/or kocho"
+				"step": "Place it on a lightly warm serving dish and serve it immediately."
 			}
 		],
 		"recipeBy": "",
@@ -442,7 +457,9 @@
 		"serving": "6",
 		"prepTime": "15 minutes",
 		"cookingTime": "45 minutes",
-		"dishType": "maindish",
+		"dishType": [
+			"maindish"
+		],
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -510,13 +527,15 @@
 		"visible": true
 	},
 	{
-		"id": 10,
+		"id": 9,
 		"imageUrl": "img/EnqulalFirfir.png",
 		"name": "Enqulal Firfir | Scrambled Eggs",
 		"serving": "4",
 		"prepTime": "5 minutes",
 		"cookingTime": "15 minutes",
-		"dishType": "breakfast",
+		"dishType": [
+			"breakfast"
+		],
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -569,13 +588,15 @@
 		"visible": true
 	},
 	{
-		"id": 12,
+		"id": 10,
 		"imageUrl": "img/kinche.png",
 		"name": "Kinche | Bulgur",
 		"serving": "3",
 		"prepTime": "",
 		"cookingTime": "",
-		"dishType": "breakfast",
+		"dishType": [
+			"breakfast"
+		],
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -621,13 +642,15 @@
 		"visible": true
 	},
 	{
-		"id": 13,
+		"id": 11,
 		"imageUrl": "img/chechbesa.png",
 		"name": "Chechebsa | Spicy Bread",
 		"serving": "",
 		"prepTime": "5 minutes",
 		"cookingTime": "25 minutes",
-		"dishType": "breakfast",
+		"dishType": [
+			"breakfast"
+		],
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -681,13 +704,15 @@
 		"visible": true
 	},
 	{
-		"id": 14,
+		"id": 12,
 		"imageUrl": "img/TimatimSalad.png",
 		"name": "Timatim Selata | Tomato Salad",
 		"serving": "2",
 		"prepTime": "10 min",
 		"cookingTime": "",
-		"dishType": "sidedish",
+		"dishType": [
+			"sidedish"
+		],
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -718,29 +743,37 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "jalapeno/serrano pepper",
+				"ingredient": "serrano pepper",
 				"amount": "1"
 			}
 		],
 		"directions": [
 			{
-				"step": "Mix the first four items well in a bowl"
+				"step": "This dish can be served as a side with most traditional dishes."
 			},
 			{
-				"step": "Combine the rest of the ingredients with the dressing in the bowl and serve"
+				"step": "In a large salad bowl, add the salt, black pepper, olive oil and lime and whisk to combine."
+			},
+			{
+				"step": "Add chopped tomato, onion and serrano pepper onto the bowl. Toss gently to combine"
+			},
+			{
+				"step": "Cover and refrigerate until serving."
 			}
 		],
 		"recipeBy": "",
 		"visible": true
 	},
 	{
-		"id": 16,
+		"id": 13,
 		"imageUrl": "img/awaze-sauce.png",
 		"name": "Awaze | Hot Sauce",
 		"serving": "",
 		"prepTime": "5 min",
 		"cookingTime": "",
-		"dishType": "Sidedish",
+		"dishType": [
+			"sidedish"
+		],
 		"dietType": "Vegan",
 		"spicy": 1,
 		"recipeRating": 0,
@@ -786,13 +819,15 @@
 		"visible": true
 	},
 	{
-		"id": 17,
+		"id": 14,
 		"imageUrl": "img/BozenaShiro.png",
 		"name": "Bozena Shiro",
 		"serving": "4",
 		"prepTime": "10 min",
 		"cookingTime": "35 min",
-		"dishType": "maindish",
+		"dishType": [
+			"maindish"
+		],
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -857,13 +892,15 @@
 		"visible": true
 	},
 	{
-		"id": 18,
+		"id": 15,
 		"imageUrl": "img/BesoFirfir.png",
 		"name": "Beso Firfir",
 		"serving": "4",
 		"prepTime": "8 minutes",
 		"cookingTime": "",
-		"dishType": "breakfast",
+		"dishType": [
+			"breakfast"
+		],
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
@@ -909,13 +946,15 @@
 		"visible": true
 	},
 	{
-		"id": 19,
+		"id": 16,
 		"imageUrl": "img/senig-kariya.png",
 		"name": "Senig Kariya | Stuffed Serrano Pepper",
 		"serving": "4",
 		"prepTime": "5 min",
 		"cookingTime": "",
-		"dishType": "sidedish",
+		"dishType": [
+			"sidedish"
+		],
 		"dietType": "Vegan",
 		"spicy": 1,
 		"recipeRating": 0,
