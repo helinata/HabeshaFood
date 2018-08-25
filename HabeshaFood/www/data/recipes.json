@@ -12,7 +12,7 @@
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "Salad can be served as a side dish with most traditional dishes.",
 		"ingredients": [
 			{
 				"ingredient": "salt",
@@ -43,16 +43,19 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "Serrano pepper, sliced into small peices",
+				"ingredient": "serrano pepper, cut into small pieces",
 				"amount": "1"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a medium bowl, mix the first four items well"
+				"step": "Make the dressing by adding salt, pepper, olive oil and lime into a medium salad bowl. I recommend adding a little bit more salt than you usually use to make the salad tasty. Then, whisk the mix well."
 			},
 			{
-				"step": "Combine the rest of the ingredients with mix and serve"
+				"step": "Add the onion, tomatoes, lettuce onto the dressing and toss it."
+			},
+			{
+				"step": "Serve it right away or refrigerate until serving."
 			}
 		],
 		"recipeBy": "",
@@ -71,10 +74,10 @@
 		"dietType": "Vegan",
 		"spicy": 2,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
-				"ingredient": "Salt to taste",
+				"ingredient": "salt to taste",
 				"amount": ""
 			},
 			{
@@ -102,19 +105,22 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "jalapeno/Serrano pepper",
+				"ingredient": "jalapeño/serrano pepper, cut into small pieces",
 				"amount": "1"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a large bowl, mix the first four ingredients."
+				"step": "Make the dressing by adding salt, pepper, olive oil and lime into a medium salad bowl. I recommend adding a little bit more salt than you usually use to make the salad tasty. Then, whisk the mix well."
 			},
 			{
-				"step": "Mix the avocado to the dressing and mash it slightly"
+				"step": "Add the avocado onto the dressing and mash it slightly."
 			},
 			{
-				"step": "Add and mix the rest of the ingredients in the bowl. Then, serve"
+				"step": "Next, add the onion, tomatoes, lettuce and pepper on the avocado mix and toss them in the bowl."
+			},
+			{
+				"step": "Serve or cover and refrigerate until serving."
 			}
 		],
 		"recipeBy": "",
@@ -128,13 +134,12 @@
 		"prepTime": "10 min",
 		"cookingTime": "30 minutes",
 		"dishType": [
-			"breakfast",
-			"maindish"
+			"breakfast"
 		],
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "onion, chopped",
@@ -149,7 +154,7 @@
 				"amount": "2"
 			},
 			{
-				"ingredient": "berebere ",
+				"ingredient": "berbere ",
 				"amount": "4 tbsp"
 			},
 			{
@@ -165,7 +170,7 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "pepper",
+				"ingredient": "black pepper",
 				"amount": "1 teaspoon"
 			},
 			{
@@ -179,13 +184,19 @@
 		],
 		"directions": [
 			{
-				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tunder."
+				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tender."
 			},
 			{
-				"step": "Add the tomato, berebere and 1/3 cup water. Cook for 5 minutes. Then, add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
+				"step": "Add the tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes. "
 			},
 			{
-				"step": "Sprinkle the salt and pepper, add 2 1/2 cup of water and cook for 10 minutes"
+				"step": "Then, add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
+			},
+			{
+				"step": "Sprinkle the salt and pepper, add 2 1/2 cup of water and cook for 5 minutes"
+			},
+			{
+				"step": "Cut the injera into large pieces. Add the injera to the pan and combine with sauce by stirring slowly for few times."
 			},
 			{
 				"step": "Serve it with injera or bread"
@@ -207,7 +218,7 @@
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "Oil",
@@ -240,16 +251,16 @@
 		],
 		"directions": [
 			{
-				"step": "In a large pot over medium-low heat, Add oil and cook carrot until tender."
+				"step": "In a large pan over medium-low heat, add oil and cook carrot until tender."
 			},
 			{
-				"step": "Add onion and garlic in the pot and cook them until tender. "
+				"step": "Add onion and garlic in the pan and cook, stirring occasionally, them until tender."
 			},
 			{
-				"step": "Add the cabbage with other vegitables and cook for 20 minutes"
+				"step": "Place the cabbage on the pan with other vegetables. Cook, stirring occasionally, for about 20 minutes."
 			},
 			{
-				"step": "Add the Jalopeno pepper and salt; and cook for an additional 5 minutes"
+				"step": "Add the jalapeno pepper and salt; Cook for an additional 5 minutes and Serve."
 			}
 		],
 		"recipeBy": "",
@@ -268,18 +279,18 @@
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "Oil",
 				"amount": "1/2 cup"
 			},
 			{
-				"ingredient": "Beef, cut into 1 inch cubes",
+				"ingredient": "beef, cut into 1-inch cubes",
 				"amount": "2 pounds"
 			},
 			{
-				"ingredient": "Onion, chopped",
+				"ingredient": "onion, chopped",
 				"amount": "1"
 			},
 			{
@@ -292,10 +303,10 @@
 			},
 			{
 				"ingredient": "wine",
-				"amount": "1/2"
+				"amount": "1/2 cup"
 			},
 			{
-				"ingredient": "pepper",
+				"ingredient": "Black pepper to taste",
 				"amount": ""
 			},
 			{
@@ -313,13 +324,13 @@
 		],
 		"directions": [
 			{
-				"step": "Heat oil in a medium pan over a medium heat"
+				"step": "Heat oil in a medium pan over a medium temperature."
 			},
 			{
-				"step": "Add beef and cook for 5 minutes while stirring ocassionally. Then, add the onion and garlic to the pan and cook for another 10 minutes."
+				"step": "Place the beef on the pan and cook for 5 minutes while stirring occasionally. Then, add the onion and garlic to the pan and cook for another 10 minutes."
 			},
 			{
-				"step": "Add the tomato, wine, peper and salt to the mix and cook for another 5 minutes."
+				"step": "Add the tomato, wine, pepper and salt to the mix and cook for another 5 minutes."
 			},
 			{
 				"step": "Put the jalapeno pepper and the rosemary and cook for another 5 minutes. Serve with injera and salad (optional)"
@@ -341,7 +352,7 @@
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "onion",
@@ -382,13 +393,13 @@
 		],
 		"directions": [
 			{
-				"step": "Heat oil in a medium sauté pan over medium heat. Add onion; cook until tender."
+				"step": "Using a medium sauté pan over medium heat, heat oil. Add onion; cook until tender."
 			},
 			{
-				"step": "Add tomato and garlic. Cook until tomatoes are shrivelled while stirring occasionally."
+				"step": "Add tomato and garlic. Cook until tomatoes are shriveled while stirring occasionally."
 			},
 			{
-				"step": "Add water and Shiro. Combine well with mix and cook for 10 minutes."
+				"step": "Add water and shiro. Stir well to combine shiro with mix. Cook for 10 minutes while stirring occasionally."
 			},
 			{
 				"step": "Lower the heat to low. Add the last three items and cook for another 10 minutes."
@@ -410,15 +421,15 @@
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "This classic dish is a spicy beef that is traditionally served raw but can be served cooked. It is IMPORTANT to start preparing it few minutes before serving. Kitfo is typically served with collard greens (Gomen) and Ethiopian cheese (Ayib) as well as some form of bread, either a traditional flatbread (injera) or a bread made from the banana-like ensete plant.",
 		"ingredients": [
 			{
 				"ingredient": "mitmita",
 				"amount": "2 tsp"
 			},
 			{
-				"ingredient": "ground pepper",
-				"amount": "1 1/2 tsp"
+				"ingredient": "ground black pepper",
+				"amount": "2 tsp"
 			},
 			{
 				"ingredient": "Salt to taste",
@@ -426,7 +437,7 @@
 			},
 			{
 				"ingredient": "Ethiopian clarified butter",
-				"amount": "1 cup"
+				"amount": "3/4 cup"
 			},
 			{
 				"ingredient": "beef, finely minced",
@@ -435,13 +446,13 @@
 		],
 		"directions": [
 			{
-				"step": "This classic Ethiopian is a spicy beef that is traditionally served raw but can be served cooked. Kitfo is typically served with collard greens (gomen) and Ethiopian cheese (ayib) as well as some form of bread, either a traditional flatbread (injera) or a bread made from the banana-like enset plant."
+				"step": "On a medium pan, over a lower heat melt the butter. Add the mitmita, ground pepper, salt then remove from heat."
 			},
 			{
-				"step": "In small pot, on a lower heat melt the butter. add the mitmita, ground pepper, salt then remove from heat."
+				"step": "Mix spices with butter. Add beef on the pan."
 			},
 			{
-				"step": "Using a mixing utensils, combine the ground meat with the spicy butter; It is important to thoroughly mix so the beef contains all the spice and butter. If preferred, cook the marinated meat for few more minutes until desired."
+				"step": "Using a mixing utensil or your hand, combine the ground meat with the spicy butter; It is important to thoroughly mix so every beef bite contains all the spice and butter. If preferred, cook the marinated meat for few more minutes until desired."
 			},
 			{
 				"step": "Place it on a lightly warm serving dish and serve it immediately."
@@ -463,7 +474,7 @@
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "onions, chopped",
@@ -474,7 +485,7 @@
 				"amount": "3/4 cup"
 			},
 			{
-				"ingredient": "tomatoe, coarsely chopped",
+				"ingredient": "tomato, coarsely chopped",
 				"amount": "1"
 			},
 			{
@@ -508,7 +519,7 @@
 		],
 		"directions": [
 			{
-				"step": "Heat oil in a medium-low nonstick pot over medium heat. Add onion and cook until tender."
+				"step": "Heat oil in a medium-low non-stick pot over medium heat. Add onion and cook until tender."
 			},
 			{
 				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding a cup of water in small portions while stirring occasionally "
@@ -539,7 +550,7 @@
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "oil",
@@ -566,7 +577,7 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "Pepper to taste",
+				"ingredient": "Black pepper to taste",
 				"amount": ""
 			}
 		],
@@ -581,7 +592,7 @@
 				"step": "Put eggs, pepper and salt to the pan and cook for 5 minutes"
 			},
 			{
-				"step": "Add the jalapeno pepper and cook for about 2 minutes"
+				"step": "Add the jalapeño pepper and cook for about 2 minutes"
 			}
 		],
 		"recipeBy": "",
@@ -600,14 +611,14 @@
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "water",
 				"amount": "4 cups"
 			},
 			{
-				"ingredient": "Bulgur, washed",
+				"ingredient": "Bulgur",
 				"amount": "1 1⁄2 cups"
 			},
 			{
@@ -619,23 +630,29 @@
 				"amount": "4 tbsp"
 			},
 			{
-				"ingredient": "Mitmita (to taste)",
+				"ingredient": "mitmita (to taste)",
 				"amount": "1 tsp"
 			},
 			{
-				"ingredient": "Black pepper",
+				"ingredient": "black pepper",
 				"amount": "1 tsp"
 			}
 		],
 		"directions": [
 			{
-				"step": "Combine the bulgur, salt and water in a medium sauce pan. Bring to a boil."
+				"step": "Wash bulgur until water becomes relatively clear."
+			},
+			{
+				"step": "Combine the bulgur, salt and water in a medium sauce pan. Bring to boil."
 			},
 			{
 				"step": "Cover, reduce heat to low, and simmer until tender. Drain, if necessary."
 			},
 			{
-				"step": "Melt the butter in a medium pan over low heat. Mix mitmita and black pepper with butter, add the bulger to the pan and combine well with the butter mix"
+				"step": "Melt the butter in a medium pan over low heat. Mix mitmita and black pepper with butter."
+			},
+			{
+				"step": "Add the bulger to the pan and combine thoroughly with the butter mix."
 			}
 		],
 		"recipeBy": "",
@@ -654,10 +671,10 @@
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
-				"ingredient": "All-purpose flour",
+				"ingredient": "all-purpose flour",
 				"amount": "2 cups"
 			},
 			{
@@ -667,10 +684,6 @@
 			{
 				"ingredient": "oil",
 				"amount": "3 tbsp"
-			},
-			{
-				"ingredient": "Salt to taste",
-				"amount": ""
 			},
 			{
 				"ingredient": "Ethiopian butter or Olive oil",
@@ -694,10 +707,13 @@
 				"step": "In a large bowl, combine flour and salt. Stir in water and 1 tbsp oil. Turn onto a floured surface; knead 10-12 times, adding a little flour or water if needed to achieve a smooth dough. Divide dough into four portions. On a lightly floured surface, roll each portion into a circle."
 			},
 			{
-				"step": "In a large nonstick skillet coated with 1 tbsp of oil, cook dough over low heat on each side or until lightly browned. When the temprature of the breadcools, slice the bread into one inch."
+				"step": "In a large nonstick skillet coated with 1 tbsp of oil, cook dough over low heat on each side or until lightly browned. When the temperature of the bread cools, slice the bread into one inch."
 			},
 			{
-				"step": "Melt the butter in a pan over low heat. Combine the last three ingredients with butter. Add the sliced bread to the pan and mix well."
+				"step": "Melt the butter in a pan over low heat. Combine the berbere, salt and honey with butter."
+			},
+			{
+				"step": "Add the sliced bread onto the pan and mix well. You can also use your hands to mash the bread so that the oil mix blend into the bread."
 			}
 		],
 		"recipeBy": "",
@@ -716,7 +732,7 @@
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "Tomato Salad can be served as a side dish with most traditional dishes.",
 		"ingredients": [
 			{
 				"ingredient": "salt",
@@ -743,19 +759,16 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "serrano pepper",
+				"ingredient": "serrano pepper, cut into small pieces",
 				"amount": "1"
 			}
 		],
 		"directions": [
 			{
-				"step": "This dish can be served as a side with most traditional dishes."
+				"step": "In a medium salad bowl, add the salt, black pepper, olive oil and lime and whisk to combine."
 			},
 			{
-				"step": "In a large salad bowl, add the salt, black pepper, olive oil and lime and whisk to combine."
-			},
-			{
-				"step": "Add chopped tomato, onion and serrano pepper onto the bowl. Toss gently to combine"
+				"step": "Add chopped tomato, onion and serrano pepper onto the bowl. Toss gently to combine."
 			},
 			{
 				"step": "Cover and refrigerate until serving."
@@ -777,26 +790,26 @@
 		"dietType": "Vegan",
 		"spicy": 1,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "Awaze is very easy to make and is served with most main courses.",
 		"ingredients": [
 			{
-				"ingredient": "Bereber",
+				"ingredient": "berbere",
 				"amount": "1 cup"
 			},
 			{
-				"ingredient": "Olive oil",
+				"ingredient": "olive oil",
 				"amount": "1 tbsp"
 			},
 			{
-				"ingredient": "Wine or Tej",
+				"ingredient": "wine or Tej",
 				"amount": "2 tbsp"
 			},
 			{
-				"ingredient": "Black pepper",
+				"ingredient": "black pepper",
 				"amount": "1/2 tsp"
 			},
 			{
-				"ingredient": "Salt",
+				"ingredient": "salt",
 				"amount": "1/2 tsp"
 			},
 			{
@@ -806,13 +819,13 @@
 		],
 		"directions": [
 			{
-				"step": "In a bowl, mix berbere, salt and pepper."
+				"step": "In a small bowl, combine berbere, salt and pepper."
 			},
 			{
-				"step": "Add the rest of the ingredients into the bowl. Mix thourghly"
+				"step": "Add the olive oil, wine or tej and water into the bowl. Mix thoroughly until all the berbere powder is blended."
 			},
 			{
-				"step": "Serve it with Tibs, raw beef or store in covered container and refregrate for future use. "
+				"step": "Serve it as a sauce with foods like Tibs and raw beef or store in covered container. Refrigerate the remaining for future use."
 			}
 		],
 		"recipeBy": "",
@@ -831,7 +844,7 @@
 		"dietType": "Vegetarian",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "onion",
@@ -846,7 +859,7 @@
 				"amount": "2"
 			},
 			{
-				"ingredient": "beef cut into 1 inch cubes",
+				"ingredient": "beef cut into 1-inch cubes",
 				"amount": "1/2 pounds"
 			},
 			{
@@ -879,13 +892,13 @@
 				"step": "Heat oil in a medium pan over medium heat. Add onion and cook until tender."
 			},
 			{
-				"step": "Add tomato and garlic. Cook until tomatoes are shrivelled, then add meat anc cook for 5 minutes stirring occasionally."
+				"step": "Add tomato and garlic. Cook until tomatoes are shriveled, then add meat and cook for 5 minutes stirring occasionally."
 			},
 			{
 				"step": "Add water and Shiro. Combine well with mix and cook for 10 minutes."
 			},
 			{
-				"step": "Lower the heat to medium-low. Add the last three items and cook for another 10 minutes."
+				"step": "Lower the heat to medium-low. Add the jalapeño pepper, butter and salt; and cook for an additional 10 minutes."
 			}
 		],
 		"recipeBy": "",
@@ -894,7 +907,7 @@
 	{
 		"id": 15,
 		"imageUrl": "img/BesoFirfir.png",
-		"name": "Beso Firfir",
+		"name": "Besso Firfir",
 		"serving": "4",
 		"prepTime": "8 minutes",
 		"cookingTime": "",
@@ -904,7 +917,7 @@
 		"dietType": "Vegan",
 		"spicy": 0,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
 				"ingredient": "Besso (Ethiopian Roasted Barley Flour)",
@@ -933,13 +946,16 @@
 		],
 		"directions": [
 			{
-				"step": "Mix the first four items in a bowl"
+				"step": "Mix the besso, mitmita, salt and sugar in a medium bowl"
 			},
 			{
-				"step": "Add the oil/butter into the bowl and mix well"
+				"step": "Add the warm water and oil/butter into the bowl and mix well"
 			},
 			{
-				"step": "Serve the mix like it is shown on the picture by making a fiest of the mix and squeeze it while turning."
+				"step": "Make a fist of the besso mix and squeeze it while turning."
+			},
+			{
+				"step": "Serve it with coffee or tea."
 			}
 		],
 		"recipeBy": "",
@@ -958,22 +974,22 @@
 		"dietType": "Vegan",
 		"spicy": 1,
 		"recipeRating": 0,
-		"calories": 0,
+		"description": "Senig is mostly served with vegetarian and vegan courses as a side dish.",
 		"ingredients": [
 			{
-				"ingredient": "Serrano pepper",
+				"ingredient": "serrano pepper",
 				"amount": "4"
 			},
 			{
-				"ingredient": "Onion, finely chopped",
+				"ingredient": "onion, finely chopped",
 				"amount": "4 tbsp"
 			},
 			{
-				"ingredient": "Tomato, chopped without the watery part",
+				"ingredient": "tomato, chopped without the watery part",
 				"amount": "4 tbsp"
 			},
 			{
-				"ingredient": "Black pepper",
+				"ingredient": "black pepper",
 				"amount": "1/2 tsp"
 			},
 			{
@@ -981,19 +997,22 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "Olive oil",
+				"ingredient": "olive oil",
 				"amount": "1 tsp"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a bowl, combine the onion, tomato, black pepper, salt and oil"
+				"step": "In a small bowl, add onion, tomato, black pepper, salt and oil and toss it."
 			},
 			{
-				"step": "Slice the peppers and remove the seeds"
+				"step": "Slice the peppers and remove the seeds. Keep the stem of the peppers for holding the pepper later."
 			},
 			{
-				"step": "Spoon an equal amount of the mixture into each hollowed pepper."
+				"step": "Spoon an equal amount of the mixture and insert it into each hollowed pepper."
+			},
+			{
+				"step": "Serve as a side with vegetarian dishes."
 			}
 		],
 		"recipeBy": "",

@@ -7,6 +7,7 @@ angular.module('starter.controllers', [])
       }
     }
   }])
+
   .controller('AppCtrl', function ($scope, $ionicModal, $timeout) {
 
     // With the new view caching in Ionic, Controllers are only called
@@ -48,16 +49,16 @@ angular.module('starter.controllers', [])
     // };
   })
 
-
   .controller('RecipeCtrl', function ($scope, $http, $location) {
     var recipeId = $location.search()['id'];
 
     $http.get('data/recipes.json')
       .then(function (response) {
-        var id = parseInt(recipeId) -1;
+        var id = parseInt(recipeId) - 1;
         $scope.recipe = response.data[id];
+        //$scope.description = response.data[id].description;
         if (response.data[id].cookingTime) {
-          $scope.cookingTimeTitle = "Cooking Time: ";
+          $scope.cookingTimeTitle = "Cooking: ";
           $scope.cookingTime = response.data[id].cookingTime;
         }
       });
@@ -65,7 +66,7 @@ angular.module('starter.controllers', [])
 
   .controller('SharingCtrl', function ($scope, $cordovaSocialSharing) {
     $scope.shareAnywhere = function () {
-      $cordovaSocialSharing.share("Hello, I am enjoying this Ethiopian/Eritrean food Recipes. Thought you might like it.", "Habesha Food Recipes", "www/icon-40.png", "https://itunes.apple.com/us/app/habesha-food/id1229276992?mt=8");
+      $cordovaSocialSharing.share("Hello, I am enjoying these Ethiopian/Eritrean cusine recipes. Thought you might like it.", "Habesha Food Recipes", "www/icon-40.png", "https://itunes.apple.com/us/app/habesha-food/id1229276992?mt=8");
     }
   })
 
@@ -115,7 +116,7 @@ angular.module('starter.controllers', [])
 
           if (dishType) {
             recipesByDishType = recipeData.filter(function (recipe) {
-              return (recipe.dishType == dishType);
+              return (recipe.dishType == dishType[0]);
             });
           }
           else {
@@ -136,8 +137,6 @@ angular.module('starter.controllers', [])
 
           $rootScope.recipeList = filteredRecipes;
           $scope.dietType = filterFactory.dietList(recipeData);
-          
-
         });
     });
 
@@ -160,15 +159,12 @@ angular.module('starter.controllers', [])
             return (recipe.dishType == dishType);
           });
         }
-        else
-        {
-           Array.prototype.push.apply(filteredRecipes, recipeData);
+        else {
+          Array.prototype.push.apply(filteredRecipes, recipeData);
         }
 
         $rootScope.recipeList = filteredRecipes;
         $scope.dietType = filterFactory.dietList(recipeData);
-        
-        
       });
   }]);
 
