@@ -229,7 +229,7 @@
 				"amount": "4"
 			},
 			{
-				"ingredient": "Onion, chopped",
+				"ingredient": "onion, chopped",
 				"amount": "1"
 			},
 			{
@@ -863,7 +863,7 @@
 				"amount": "1/2 pounds"
 			},
 			{
-				"ingredient": "Shiro powder",
+				"ingredient": "sddhiro powder",
 				"amount": "1/2 cup"
 			},
 			{
@@ -1013,6 +1013,52 @@
 			},
 			{
 				"step": "Serve as a side with vegetarian dishes."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 17,
+		"imageUrl": "img/ayib.png",
+		"name": "Ayib | Cottage Cheese",
+		"serving": "4",
+		"prepTime": "5 min",
+		"cookingTime": "50 min",
+		"dishType": [
+			"sidedish"
+		],
+		"dietType": "Vegetarian",
+		"spicy": 1,
+		"recipeRating": 0,
+		"description": "Ayib is served with spicy dishes like Kitfo (Beef tartar) and Doro (Chicken) wot to tone down the food spiciness.",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "low fat milk",
+				"amount": "1/2 gallon"
+			},
+			{
+				"ingredient": "white Vinegar",
+				"amount": "1/3 cup"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": "In a large pot over medium heat, add the milk and Vinegar. Stir the ingredients."
+			},
+			{
+				"step": "Bring the milk to a boil for 50 minutes until curds form. Remove from heat."
+			},
+			{
+				"step": "Spoon the curdled milk into the sieve. Place over a bowl, cover, refrigerate. Let it drain until most of the water comes out for at least 2 hours before serving."
+			},
+			{
+				"step": "Discard the liquid. Place the cheese in a bowl and season with salt."
 			}
 		],
 		"recipeBy": "",
