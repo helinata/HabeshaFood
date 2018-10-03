@@ -1,74 +1,6 @@
 [
 	{
-		"id": 18,
-		"imageUrl": "",
-		"name": "Siga Wot | Spicy Beef Stew",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": [
-			""
-		],
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"description": "",
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "oil",
-				"amount": ""
-			},
-			{
-				"ingredient": "onion",
-				"amount": ""
-			},
-			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": ""
-			},
-			{
-				"ingredient": "minced garlic",
-				"amount": ""
-			},
-			{
-				"ingredient": "water",
-				"amount": ""
-			},
-			{
-				"ingredient": "berbere",
-				"amount": ""
-			},
-			{
-				"ingredient": "beef, cut into cubes",
-				"amount": ""
-			},
-			{
-				"ingredient": "ground pepper",
-				"amount": ""
-			},
-			{
-				"ingredient": "Salt to taste",
-				"amount": ""
-			},
-			{
-				"ingredient": "Ethiopian butter",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
-	},
-	{
-		"id": 19,
+		"id": 22,
 		"imageUrl": "",
 		"name": "Ye'tsome Firfir",
 		"serving": "",
@@ -132,164 +64,7 @@
 		"visible": false
 	},
 	{
-		"id": 15,
-		"imageUrl": "",
-		"name": "Dinch Be'siga Wot",
-		"serving": "8",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": [
-			""
-		],
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"description": "",
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "oil",
-				"amount": "1/2 cup"
-			},
-			{
-				"ingredient": "onion",
-				"amount": "3"
-			},
-			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": "2"
-			},
-			{
-				"ingredient": "minced garlic",
-				"amount": "1 tbsp"
-			},
-			{
-				"ingredient": "water",
-				"amount": ""
-			},
-			{
-				"ingredient": "berbere",
-				"amount": "3 tbsp"
-			},
-			{
-				"ingredient": "beef, cut into cubes",
-				"amount": "1 pound"
-			},
-			{
-				"ingredient": "ground pepper",
-				"amount": "1 tsp"
-			},
-			{
-				"ingredient": "Salt to taste",
-				"amount": ""
-			},
-			{
-				"ingredient": "Ethiopian butter",
-				"amount": "3 tbsp"
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
-	},
-	{
-		"id": 20,
-		"imageUrl": "Fosolia",
-		"name": "",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": [
-			""
-		],
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"description": "",
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
-	},
-	{
-		"id": 20,
-		"imageUrl": "",
-		"name": "Genfo",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": "",
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
-	},
-	{
-		"id": 20,
+		"id": 24,
 		"imageUrl": "Spagettiie",
 		"name": "",
 		"serving": "",
@@ -323,6 +98,86 @@
 			},
 			{
 				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
+	},
+	{
+		"id": 25,
+		"imageUrl": "",
+		"name": "Alicha dinch",
+		"serving": "4",
+		"prepTime": "",
+		"cookingTime": "",
+		"dishType": [
+			"main"
+		],
+		"dietType": "",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "Sega Wot is a spicy but delicious beef stew. To calm down the spicyness of the stew, you can serve it with a side of ayib/plain yogurt.",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "onion, finely chopped",
+				"amount": "3 cups"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "minced garlic",
+				"amount": "1 tbsp"
+			},
+			{
+				"ingredient": "water",
+				"amount": "4 cups"
+			},
+			{
+				"ingredient": "berbere",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "beef cut in 1-inch cubes",
+				"amount": "1 pound"
+			},
+			{
+				"ingredient": "pepper to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "Ethiopian clarified butter (Optional)",
+				"amount": "4 tbsp"
+			}
+		],
+		"directions": [
+			{
+				"step": "In a medium pot, heat oil over medium heat. Add the onion to the pot and cook until onion turns tender."
+			},
+			{
+				"step": "Add the tomato, garlic, berbere to the pot. Cook for 5 minutes by adding a small amount of water and stirring frequently. "
+			},
+			{
+				"step": "Then, place meat on the pot and cook until tender. Add a small amount of water if necessary and stir the mix in between."
+			},
+			{
+				"step": "Add 3 cups of water onto the pot. Cook for 20 minutes while stirring frequently."
+			},
+			{
+				"step": " Sprinkle the salt and pepper; Add butter Lower the heat and cook for another 2 minutes."
+			},
+			{
+				"step": "Place it aside to cool. Serve it with injera or bread."
 			}
 		],
 		"recipeBy": "",
