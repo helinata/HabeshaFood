@@ -115,8 +115,12 @@ angular.module('starter.controllers', [])
           var recipesByDishType = [];
 
           if (dishType) {
+            // recipesByDishType = recipeData.filter(function (recipe) {
+            //   return (recipe.dishType == dishType[0]);
+            // });
             recipesByDishType = recipeData.filter(function (recipe) {
-              return (recipe.dishType == dishType[0]);
+              const hasType = Object.values(recipe.dishType).includes(dishType);
+              return hasType;
             });
           }
           else {
@@ -156,13 +160,13 @@ angular.module('starter.controllers', [])
 
         if (dishType) {
           filteredRecipes = recipeData.filter(function (recipe) {
-            return (recipe.dishType == dishType);
+            const hasType = Object.values(recipe.dishType).includes(dishType);
+            return hasType;
           });
         }
         else {
           Array.prototype.push.apply(filteredRecipes, recipeData);
         }
-
         $rootScope.recipeList = filteredRecipes;
         $scope.dietType = filterFactory.dietList(recipeData);
       });

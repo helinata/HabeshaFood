@@ -134,7 +134,8 @@
 		"prepTime": "10 min",
 		"cookingTime": "30 minutes",
 		"dishType": [
-			"breakfast"
+			"breakfast",
+			"maindish"
 		],
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
@@ -213,7 +214,9 @@
 		"prepTime": "10 min",
 		"cookingTime": "30 minutes",
 		"dishType": [
-			"maindish"
+			"maindish",
+			"breakfast"
+
 		],
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
@@ -1110,8 +1113,8 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "garlic, finely chopped",
-				"amount": "3"
+				"ingredient": "garlic cloves, finely chopped",
+				"amount": "4"
 			},
 			{
 				"ingredient": "medium Cabbage",
@@ -1134,7 +1137,7 @@
 				"step": "Add onion and garlic in the pan and cook, stirring occasionally, them until tender."
 			},
 			{
-				"step": "Place the cabbage on the pan with other vegetables. Cook, stirring occasionally, for about 20 minutes."
+				"step": "Place the cabbage on the pan with other vegetables. Cook, stirring occasionally, for about 15 minutes."
 			},
 			{
 				"step": "Add the jalapeno pepper and salt; Cook for an additional 5 minutes and Serve."
@@ -1380,7 +1383,7 @@
 	},
 	{
 		"id": 22,
-		"imageUrl": "img/fasolia.png",
+		"imageUrl": "img/fasolia2.png",
 		"name": "Fasolia | Green beans",
 		"serving": "6",
 		"prepTime": "10 minutes",
@@ -1415,7 +1418,7 @@
 			},
 			{
 				"ingredient": "water",
-				"amount": "5 cups"
+				"amount": "2 cups"
 			},
 			{
 				"ingredient": "Salt to taste",

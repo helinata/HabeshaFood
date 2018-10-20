@@ -22,37 +22,37 @@
 14 verbose correctMkdir /Users/helinaa/.npm correctMkdir not in flight; initializing
 15 verbose addTmpTarball validating metadata from /Users/helinaa/Documents/App/Helina/HabeshaFood/ionic
 16 verbose tar unpack /Users/helinaa/Documents/App/Helina/HabeshaFood/ionic
-17 verbose tar unpacking to /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6
-18 silly gentlyRm /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6 is being purged
-19 verbose gentlyRm don't care about contents; nuking /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6
+17 verbose tar unpacking to /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57
+18 silly gentlyRm /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57 is being purged
+19 verbose gentlyRm don't care about contents; nuking /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57
 20 silly gunzTarPerm modes [ '755', '644' ]
 21 error not a package /Users/helinaa/Documents/App/Helina/HabeshaFood/ionic
 22 error addLocal Could not install /Users/helinaa/Documents/App/Helina/HabeshaFood/ionic
-23 silly fetchPackageMetaData Error: ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6/package.json'
+23 silly fetchPackageMetaData Error: ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57/package.json'
 23 silly fetchPackageMetaData     at Error (native)
-23 silly fetchPackageMetaData  error for ionic { Error: ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6/package.json'
+23 silly fetchPackageMetaData  error for ionic { Error: ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57/package.json'
 23 silly fetchPackageMetaData     at Error (native)
 23 silly fetchPackageMetaData   errno: -2,
 23 silly fetchPackageMetaData   code: 'ENOENT',
 23 silly fetchPackageMetaData   syscall: 'open',
-23 silly fetchPackageMetaData   path: '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6/package.json' }
+23 silly fetchPackageMetaData   path: '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57/package.json' }
 24 silly rollbackFailedOptional Starting
 25 silly rollbackFailedOptional Finishing
 26 silly runTopLevelLifecycles Finishing
 27 silly install printInstalled
-28 verbose stack Error: ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6/package.json'
+28 verbose stack Error: ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57/package.json'
 28 verbose stack     at Error (native)
 29 verbose cwd /Users/helinaa/Documents/App/Helina/HabeshaFood
 30 error Darwin 17.7.0
 31 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "i" "-g" "ionic"
 32 error node v6.10.2
 33 error npm  v3.10.10
-34 error path /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6/package.json
+34 error path /var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57/package.json
 35 error code ENOENT
 36 error errno -2
 37 error syscall open
-38 error enoent ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6/package.json'
-39 error enoent ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-13072-b8814ce8/unpack-175cbfd6/package.json'
+38 error enoent ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57/package.json'
+39 error enoent ENOENT: no such file or directory, open '/var/folders/3h/fnlpfgqx1qz76120vmkppcdh0000gn/T/npm-24985-e8b81614/unpack-cf177d57/package.json'
 39 error enoent This is most likely not a problem with npm itself
 39 error enoent and is related to npm not being able to find a file.
 40 verbose exit [ -2, true ]
