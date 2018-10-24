@@ -63,10 +63,10 @@
 	},
 	{
 		"id": 2,
-		"imageUrl": "img/avocado-selata.png",
-		"name": "Avocado Selata | Salad",
-		"serving": "2",
-		"prepTime": "10 minutes",
+		"imageUrl": "img/collard-greens.png",
+		"name": "Habesha Gomen | Collard Greens",
+		"serving": "4",
+		"prepTime": "",
 		"cookingTime": "",
 		"dishType": [
 			"sidedish"
@@ -77,50 +77,56 @@
 		"description": "",
 		"ingredients": [
 			{
-				"ingredient": "salt to taste",
-				"amount": ""
+				"ingredient": "collard greens, rinsed",
+				"amount": "1 1/2 pound"
 			},
 			{
-				"ingredient": "olive oil",
+				"ingredient": "oil",
+				"amount": "1"
+			},
+			{
+				"ingredient": "onion, finely chopped",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "garlic, minced",
 				"amount": "1 tbsp"
+			},
+			{
+				"ingredient": "salt to taste",
+				"amount": ""
 			},
 			{
 				"ingredient": "black paper",
 				"amount": "1/2 tsp"
 			},
 			{
-				"ingredient": "lime, squeezed",
+				"ingredient": "serrano pepper, cut into slices",
 				"amount": "1"
 			},
 			{
-				"ingredient": "onion, finely chopped",
+				"ingredient": "Ethiopian butter. Optional",
 				"amount": "2 tbsp"
-			},
-			{
-				"ingredient": "tomato, coarsely chopped",
-				"amount": "1"
-			},
-			{
-				"ingredient": "avocado",
-				"amount": "1"
-			},
-			{
-				"ingredient": "jalapeño/serrano pepper, cut into small pieces",
-				"amount": "1"
 			}
 		],
 		"directions": [
 			{
-				"step": "Make the dressing by adding salt, pepper, olive oil and lime into a medium salad bowl. I recommend adding a little bit more salt than you usually use to make the salad tasty. Then, whisk the mix well."
+				"step": "Trim the collard greens to discard tough stem. If you want the leaf part only, you can further remove all the stem using hands."
 			},
 			{
-				"step": "Add the avocado onto the dressing and mash it slightly."
+				"step": "Bring a large pot of water to a boil over high heat. Add collards and cook until tender, for about 15 minutes. Drain well in a colander."
 			},
 			{
-				"step": "Next, add the onion, tomatoes, lettuce and pepper on the avocado mix and toss them in the bowl."
+				"step": "Squeeze the boiled collard greens to drain the remaining water and chop."
 			},
 			{
-				"step": "Serve or cover and refrigerate until serving."
+				"step": "In a medium pan over medium-low heat, add onion and oil and cook, stirring often, until the onion is translucent. Add garlic and cook for 1 minute."
+			},
+			{
+				"step": "Add the collard greens on the pan. Cook, stirring occasionally, for about 10 minutes."
+			},
+			{
+				"step": "Add the jalapeno pepper, salt, pepper and butter; Cook for an additional 3 minutes and Serve."
 			}
 		],
 		"recipeBy": "",
@@ -216,7 +222,6 @@
 		"dishType": [
 			"maindish",
 			"breakfast"
-
 		],
 		"dietType": "Non-vegetarian",
 		"spicy": 0,
@@ -623,7 +628,7 @@
 		"id": 10,
 		"imageUrl": "img/kinche.png",
 		"name": "Kinche | Bulgur",
-		"serving": "3",
+		"serving": "4",
 		"prepTime": "",
 		"cookingTime": "",
 		"dishType": [
@@ -640,7 +645,7 @@
 			},
 			{
 				"ingredient": "Bulgur",
-				"amount": "1 1⁄2 cups"
+				"amount": "2 cups"
 			},
 			{
 				"ingredient": "Salt to taste",
@@ -648,15 +653,15 @@
 			},
 			{
 				"ingredient": "Ethiopian butter",
-				"amount": "4 tbsp"
+				"amount": "1/2 cup"
 			},
 			{
 				"ingredient": "mitmita (to taste)",
-				"amount": "1 tsp"
+				"amount": "1/2 tbsp"
 			},
 			{
 				"ingredient": "black pepper",
-				"amount": "1 tsp"
+				"amount": "1/2 tbsp"
 			}
 		],
 		"directions": [
@@ -683,7 +688,7 @@
 		"id": 11,
 		"imageUrl": "img/chechbesa.png",
 		"name": "Chechebsa | Spicy Bread",
-		"serving": "",
+		"serving": "3",
 		"prepTime": "5 minutes",
 		"cookingTime": "25 minutes",
 		"dishType": [
@@ -725,7 +730,7 @@
 		],
 		"directions": [
 			{
-				"step": "In a large bowl, combine flour and salt. Stir in water and 1 tbsp oil. Turn onto a floured surface; knead 10-12 times, adding a little flour or water if needed to achieve a smooth dough. Divide dough into four portions. On a lightly floured surface, roll each portion into a circle."
+				"step": "In a large bowl, combine flour and salt. Stir in water and 1 tbsp oil. Knead 10-12 times, adding a little flour or water if needed to achieve a smooth dough. Divide dough into four portions. On a lightly floured surface, roll each portion into a circle."
 			},
 			{
 				"step": "In a large nonstick skillet coated with 1 tbsp of oil, cook dough over low heat on each side or until lightly browned. When the temperature of the bread cools, slice the bread into one inch."
@@ -1493,7 +1498,7 @@
 				"step": "In large, heavy pot, cover peas with 3” water. Bring to a boil. Reduce heat to medium low and cook till tender, about 30-45 minutes. Slightly, mash the peas."
 			},
 			{
-				"step": "Meanwhile, add oil, onions and garlic in a deep pan. Cook stirring occasionally, until translucent."
+				"step": "Meanwhile, add oil, onion and garlic in a deep pan. Cook stirring occasionally, until translucent."
 			},
 			{
 				"step": "Add cooked split peas (water included), ginger and salt into the onion mixture. Mix, cover and cook on medium-low heat for 10 minutes."
@@ -1503,6 +1508,71 @@
 			},
 			{
 				"step": "Serve it with injera, bread or rice."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 24,
+		"imageUrl": "img/avocado-selata.png",
+		"name": "Avocado Selata | Salad",
+		"serving": "2",
+		"prepTime": "10 minutes",
+		"cookingTime": "",
+		"dishType": [
+			"sidedish"
+		],
+		"dietType": "Vegan",
+		"spicy": 2,
+		"recipeRating": 0,
+		"description": "",
+		"ingredients": [
+			{
+				"ingredient": "salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "olive oil",
+				"amount": "1 tbsp"
+			},
+			{
+				"ingredient": "black paper",
+				"amount": "1/2 tsp"
+			},
+			{
+				"ingredient": "lime, squeezed",
+				"amount": "1"
+			},
+			{
+				"ingredient": "onion, finely chopped",
+				"amount": "2 tbsp"
+			},
+			{
+				"ingredient": "tomato, coarsely chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "avocado",
+				"amount": "1"
+			},
+			{
+				"ingredient": "jalapeño/serrano pepper, cut into small pieces",
+				"amount": "1"
+			}
+		],
+		"directions": [
+			{
+				"step": "Make the dressing by adding salt, pepper, olive oil and lime into a medium salad bowl. I recommend adding a little bit more salt than you usually use to make the salad tasty. Then, whisk the mix well."
+			},
+			{
+				"step": "Add the avocado onto the dressing and mash it slightly."
+			},
+			{
+				"step": "Next, add the onion, tomatoes, lettuce and pepper on the avocado mix and toss them in the bowl."
+			},
+			{
+				"step": "Serve or cover and refrigerate until serving."
 			}
 		],
 		"recipeBy": "",

@@ -7,7 +7,7 @@
     "@ionic-native/core": "^4.9.0",
     "@ionic-native/social-sharing": "^4.9.0",
     "@ionic-native/status-bar": "^4.10.0",
-    "cordova-android": "~7.0.0",
+    "cordova-android": "^7.1.1",
     "cordova-ios": "^4.5.4",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-ionic-keyboard": "^2.0.5",
@@ -57,8 +57,8 @@
       "cordova-plugin-statusbar": {}
     },
     "platforms": [
-      "android",
-      "ios"
+      "ios",
+      "android"
     ]
   }
 }

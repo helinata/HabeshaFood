@@ -105,7 +105,6 @@ angular.module('starter.controllers', [])
         }
       });
       $rootScope.dietSelected = ckbName;
-      //$scope.$apply();
       var dishType = $location.search()['type'];
 
       $http.get('./data/recipes.json')
@@ -115,9 +114,6 @@ angular.module('starter.controllers', [])
           var recipesByDishType = [];
 
           if (dishType) {
-            // recipesByDishType = recipeData.filter(function (recipe) {
-            //   return (recipe.dishType == dishType[0]);
-            // });
             recipesByDishType = recipeData.filter(function (recipe) {
               const hasType = Object.values(recipe.dishType).includes(dishType);
               return hasType;
