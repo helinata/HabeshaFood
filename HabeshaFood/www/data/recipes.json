@@ -134,79 +134,53 @@
 	},
 	{
 		"id": 3,
-		"imageUrl": "img/quanta-firfir.png",
-		"name": "Kuanta (Beef Jerky) Firfir",
-		"serving": "3",
-		"prepTime": "10 min",
-		"cookingTime": "30 minutes",
+		"imageUrl": "img/awaze-sauce.png",
+		"name": "Awaze | Hot Sauce",
+		"serving": "",
+		"prepTime": "5 min",
+		"cookingTime": "",
 		"dishType": [
-			"breakfast",
-			"maindish"
+			"sidedish"
 		],
-		"dietType": "Non-vegetarian",
-		"spicy": 0,
+		"dietType": "Vegan",
+		"spicy": 1,
 		"recipeRating": 0,
-		"description": "",
+		"description": "Awaze is very easy to make and is served with most main courses.",
 		"ingredients": [
 			{
-				"ingredient": "onion, chopped",
-				"amount": "1"
+				"ingredient": "berbere",
+				"amount": "1 cup"
 			},
 			{
-				"ingredient": "oil",
-				"amount": "2/3 cup"
+				"ingredient": "olive oil",
+				"amount": "1 tbsp"
 			},
 			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": "2"
-			},
-			{
-				"ingredient": "berbere ",
-				"amount": "4 tbsp"
-			},
-			{
-				"ingredient": "dried meat/Kuanta, crushed",
-				"amount": "1/4 pounds"
-			},
-			{
-				"ingredient": "garlic, finely chopped",
-				"amount": "3 medium cloves"
-			},
-			{
-				"ingredient": "Salt to taste",
-				"amount": ""
-			},
-			{
-				"ingredient": "black pepper",
-				"amount": "1 teaspoon"
-			},
-			{
-				"ingredient": "Ethiopian butter. Optional",
+				"ingredient": "wine or Tej",
 				"amount": "2 tbsp"
 			},
 			{
-				"ingredient": "injera",
-				"amount": "1 and 1/4"
+				"ingredient": "black pepper",
+				"amount": "1/2 tsp"
+			},
+			{
+				"ingredient": "salt",
+				"amount": "1/2 tsp"
+			},
+			{
+				"ingredient": "Warm water",
+				"amount": "1 cup"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tender."
+				"step": "In a small bowl, combine berbere, salt and pepper."
 			},
 			{
-				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes. "
+				"step": "Add the olive oil, wine or tej and water into the bowl. Mix thoroughly until all the berbere powder is blended."
 			},
 			{
-				"step": "Then, add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
-			},
-			{
-				"step": "Sprinkle the salt and pepper, add 2 1/2 cup of water and cook for 5 minutes"
-			},
-			{
-				"step": "Cut injera in large pieces. Add the injera to the pan and combine with sauce by stirring slowly for few times."
-			},
-			{
-				"step": "Serve it with injera or bread"
+				"step": "Serve it as a sauce with foods like Tibs and raw beef or store in covered container. Refrigerate the remaining for future use."
 			}
 		],
 		"recipeBy": "",
@@ -214,79 +188,45 @@
 	},
 	{
 		"id": 4,
-		"imageUrl": "img/siga-firfir.png",
-		"name": "Siga Firfir",
-		"serving": "3",
-		"prepTime": "10 min",
-		"cookingTime": "30 minutes",
+		"imageUrl": "img/ayib.png",
+		"name": "Ayib | Cottage Cheese",
+		"serving": "4",
+		"prepTime": "5 min",
+		"cookingTime": "50 min",
 		"dishType": [
-			"maindish",
-			"breakfast"
+			"sidedish"
 		],
-		"dietType": "Non-vegetarian",
-		"spicy": 0,
+		"dietType": "Vegetarian",
+		"spicy": 1,
 		"recipeRating": 0,
-		"description": "",
+		"description": "Ayib is served with spicy dishes like Kitfo (Beef tartar) and Doro (Chicken) wot to tone down the food spiciness.",
+		"calories": 0,
 		"ingredients": [
 			{
-				"ingredient": "onion, chopped",
-				"amount": "1"
+				"ingredient": "low fat milk",
+				"amount": "1/2 gallon"
 			},
 			{
-				"ingredient": "oil",
-				"amount": "2/3 cup"
-			},
-			{
-				"ingredient": "tomatoes, coarsely chopped",
-				"amount": "2"
-			},
-			{
-				"ingredient": "berbere ",
-				"amount": "4 tbsp"
-			},
-			{
-				"ingredient": "beef/lamb, cut into 1-inch cubes",
-				"amount": "1/4 pounds"
-			},
-			{
-				"ingredient": "garlic, finely chopped",
-				"amount": "3 medium cloves"
+				"ingredient": "white Vinegar",
+				"amount": "1/3 cup"
 			},
 			{
 				"ingredient": "Salt to taste",
 				"amount": ""
-			},
-			{
-				"ingredient": "black pepper",
-				"amount": "1 teaspoon"
-			},
-			{
-				"ingredient": "Ethiopian butter. Optional",
-				"amount": "2 tbsp"
-			},
-			{
-				"ingredient": "injera",
-				"amount": "1 and 1/4"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tender."
+				"step": "In a large pot over medium heat, add the milk and Vinegar. Stir the ingredients."
 			},
 			{
-				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes. "
+				"step": "Bring the milk to a boil for 50 minutes until curds form. Remove from heat."
 			},
 			{
-				"step": "Then, add the beef and cook for another 5 minutes."
+				"step": "Spoon the curdled milk into the sieve. Place over a bowl, cover, refrigerate. Let it drain until most of the water comes out for at least 2 hours before serving."
 			},
 			{
-				"step": "Sprinkle the salt and pepper and combine the water with the beef mix. Cook for additional 5 minutes."
-			},
-			{
-				"step": "Slice injera in large pieces. Add the injera to the pan and combine with sauce by stirring slowly for few times."
-			},
-			{
-				"step": "Serve it with injera or bread"
+				"step": "Discard the liquid. Place the cheese in a bowl and season with salt."
 			}
 		],
 		"recipeBy": "",
@@ -295,7 +235,7 @@
 	{
 		"id": 5,
 		"imageUrl": "img/LegaTibes.png",
-		"name": "Tibs | Beef Stew",
+		"name": "Lega Tibs | Beef Stew",
 		"serving": "3",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
@@ -329,7 +269,7 @@
 			},
 			{
 				"ingredient": "wine",
-				"amount": "1/2 cup"
+				"amount": "1/4 cup"
 			},
 			{
 				"ingredient": "Black pepper to taste",
@@ -805,53 +745,79 @@
 	},
 	{
 		"id": 13,
-		"imageUrl": "img/awaze-sauce.png",
-		"name": "Awaze | Hot Sauce",
-		"serving": "",
-		"prepTime": "5 min",
-		"cookingTime": "",
+		"imageUrl": "img/quanta-firfir.png",
+		"name": "Kuanta (Beef Jerky) Firfir",
+		"serving": "3",
+		"prepTime": "10 min",
+		"cookingTime": "30 minutes",
 		"dishType": [
-			"sidedish"
+			"breakfast",
+			"maindish"
 		],
-		"dietType": "Vegan",
-		"spicy": 1,
+		"dietType": "Non-vegetarian",
+		"spicy": 0,
 		"recipeRating": 0,
-		"description": "Awaze is very easy to make and is served with most main courses.",
+		"description": "",
 		"ingredients": [
 			{
-				"ingredient": "berbere",
-				"amount": "1 cup"
+				"ingredient": "onion, chopped",
+				"amount": "1"
 			},
 			{
-				"ingredient": "olive oil",
-				"amount": "1 tbsp"
+				"ingredient": "oil",
+				"amount": "2/3 cup"
 			},
 			{
-				"ingredient": "wine or Tej",
-				"amount": "2 tbsp"
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "berbere ",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "dried meat/Kuanta, crushed",
+				"amount": "1/4 pounds"
+			},
+			{
+				"ingredient": "garlic, finely chopped",
+				"amount": "3 medium cloves"
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
 			},
 			{
 				"ingredient": "black pepper",
-				"amount": "1/2 tsp"
+				"amount": "1 teaspoon"
 			},
 			{
-				"ingredient": "salt",
-				"amount": "1/2 tsp"
+				"ingredient": "Ethiopian butter. Optional",
+				"amount": "2 tbsp"
 			},
 			{
-				"ingredient": "Warm water",
-				"amount": "1 cup"
+				"ingredient": "injera",
+				"amount": "1 and 1/4"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a small bowl, combine berbere, salt and pepper."
+				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tender."
 			},
 			{
-				"step": "Add the olive oil, wine or tej and water into the bowl. Mix thoroughly until all the berbere powder is blended."
+				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes. "
 			},
 			{
-				"step": "Serve it as a sauce with foods like Tibs and raw beef or store in covered container. Refrigerate the remaining for future use."
+				"step": "Then, add the dried meat and 2/3 cup of water and let it cook for 10 minutes. Stir the mix in between."
+			},
+			{
+				"step": "Sprinkle the salt and pepper, add 2 1/2 cup of water and cook for 5 minutes"
+			},
+			{
+				"step": "Cut injera in large pieces. Add the injera to the pan and combine with sauce by stirring slowly for few times."
+			},
+			{
+				"step": "Serve it with injera or bread"
 			}
 		],
 		"recipeBy": "",
@@ -1046,45 +1012,79 @@
 	},
 	{
 		"id": 17,
-		"imageUrl": "img/ayib.png",
-		"name": "Ayib | Cottage Cheese",
-		"serving": "4",
-		"prepTime": "5 min",
-		"cookingTime": "50 min",
+		"imageUrl": "img/siga-firfir.png",
+		"name": "Siga Firfir",
+		"serving": "3",
+		"prepTime": "10 min",
+		"cookingTime": "30 minutes",
 		"dishType": [
-			"sidedish"
+			"maindish",
+			"breakfast"
 		],
-		"dietType": "Vegetarian",
-		"spicy": 1,
+		"dietType": "Non-vegetarian",
+		"spicy": 0,
 		"recipeRating": 0,
-		"description": "Ayib is served with spicy dishes like Kitfo (Beef tartar) and Doro (Chicken) wot to tone down the food spiciness.",
-		"calories": 0,
+		"description": "",
 		"ingredients": [
 			{
-				"ingredient": "low fat milk",
-				"amount": "1/2 gallon"
+				"ingredient": "onion, chopped",
+				"amount": "1"
 			},
 			{
-				"ingredient": "white Vinegar",
-				"amount": "1/3 cup"
+				"ingredient": "oil",
+				"amount": "2/3 cup"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "berbere ",
+				"amount": "4 tbsp"
+			},
+			{
+				"ingredient": "beef/lamb, cut into 1-inch cubes",
+				"amount": "1/4 pounds"
+			},
+			{
+				"ingredient": "garlic, finely chopped",
+				"amount": "3 medium cloves"
 			},
 			{
 				"ingredient": "Salt to taste",
 				"amount": ""
+			},
+			{
+				"ingredient": "black pepper",
+				"amount": "1 teaspoon"
+			},
+			{
+				"ingredient": "Ethiopian butter. Optional",
+				"amount": "2 tbsp"
+			},
+			{
+				"ingredient": "injera",
+				"amount": "1 and 1/4"
 			}
 		],
 		"directions": [
 			{
-				"step": "In a large pot over medium heat, add the milk and Vinegar. Stir the ingredients."
+				"step": "In a medium pan, heat oil over medium heat. Then, add onion and cook until onion turns tender."
 			},
 			{
-				"step": "Bring the milk to a boil for 50 minutes until curds form. Remove from heat."
+				"step": "Add the garlic, tomato, berbere and 1/3 cup water. Cook, stirring frequently, for 5 minutes. "
 			},
 			{
-				"step": "Spoon the curdled milk into the sieve. Place over a bowl, cover, refrigerate. Let it drain until most of the water comes out for at least 2 hours before serving."
+				"step": "Then, add the beef and cook for another 5 minutes."
 			},
 			{
-				"step": "Discard the liquid. Place the cheese in a bowl and season with salt."
+				"step": "Sprinkle the salt and pepper and combine the water with the beef mix. Cook for additional 5 minutes."
+			},
+			{
+				"step": "Slice injera in large pieces. Add the injera to the pan and combine with sauce by stirring slowly for few times."
+			},
+			{
+				"step": "Serve it with injera or bread"
 			}
 		],
 		"recipeBy": "",
@@ -1194,7 +1194,7 @@
 		],
 		"directions": [
 			{
-				"step": "Place the flour onto a sieve; and strain and remove the coarse part of the flour that is on the sieve."
+				"step": "Place the flour onto a sieve; and strain and remove the coarse part of the flour that is on the sieve (Optional step)."
 			},
 			{
 				"step": "Add the water, milk and salt on a medium pot. Boil over a medium heat."

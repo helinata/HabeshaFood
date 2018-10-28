@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.helinaatsebha.habeshafood" version="1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.helinaatsebha.habeshafood" version="1.2.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>HabeshaFood</name>
-    <description> This app provides recipes for Ethiopian/Eritrean cuisine.</description>
+    <description>Recipes for Ethiopian/Eritrean cuisine.</description>
     <author email="linaatsebha@gmail.com" href="">Helina Atsebha</author>
     <content src="index.html" />
     <access origin="*" />
@@ -15,10 +15,9 @@
     <preference name="android-minSdkVersion" value="19" />
     <preference name="BackupWebStorage" value="none" />
     <preference name="SplashMaintainAspectRatio" value="true" />
-    <preference name="FadeSplashScreenDuration" value="0" />
+    <preference name="FadeSplashScreenDuration" value="500" />
     <preference name="SplashShowOnlyFirstTime" value="false" />
     <preference name="AutoHideSplashScreen" value="true" />
-    <preference name="SplashScreen" value="none" />
     <platform name="ios">
         <allow-intent href="itms:*" />
         <allow-intent href="itms-apps:*" />
