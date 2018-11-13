@@ -66,8 +66,8 @@
 		"imageUrl": "img/collard-greens.png",
 		"name": "Habesha Gomen | Collard Greens",
 		"serving": "4",
-		"prepTime": "",
-		"cookingTime": "",
+		"prepTime": "15 minutes",
+		"cookingTime": "30 minutes",
 		"dishType": [
 			"sidedish"
 		],
@@ -82,7 +82,7 @@
 			},
 			{
 				"ingredient": "oil",
-				"amount": "1"
+				"amount": "1 cup"
 			},
 			{
 				"ingredient": "onion, finely chopped",
@@ -93,11 +93,11 @@
 				"amount": "1 tbsp"
 			},
 			{
-				"ingredient": "salt to taste",
+				"ingredient": "Salt to taste",
 				"amount": ""
 			},
 			{
-				"ingredient": "black paper",
+				"ingredient": "Ground black pepper",
 				"amount": "1/2 tsp"
 			},
 			{
@@ -160,7 +160,7 @@
 				"amount": "2 tbsp"
 			},
 			{
-				"ingredient": "black pepper",
+				"ingredient": "ground black pepper",
 				"amount": "1/2 tsp"
 			},
 			{
@@ -235,7 +235,7 @@
 	{
 		"id": 5,
 		"imageUrl": "img/LegaTibes.png",
-		"name": "Lega Tibs | Beef Stew",
+		"name": "Ye'bere Lega Tibs | Beef Stew",
 		"serving": "3",
 		"prepTime": "10 minutes",
 		"cookingTime": "25 minutes",
@@ -284,8 +284,8 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "rosemary",
-				"amount": "2 tbsp"
+				"ingredient": "small rosemary stem",
+				"amount": "2"
 			}
 		],
 		"directions": [
@@ -600,7 +600,7 @@
 				"amount": "1/2 tbsp"
 			},
 			{
-				"ingredient": "black pepper",
+				"ingredient": "ground black pepper",
 				"amount": "1/2 tbsp"
 			}
 		],
@@ -788,7 +788,7 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "black pepper",
+				"ingredient": "ground black pepper",
 				"amount": "1 teaspoon"
 			},
 			{
@@ -981,7 +981,7 @@
 				"amount": "4 tbsp"
 			},
 			{
-				"ingredient": "black pepper",
+				"ingredient": "ground black pepper",
 				"amount": "1/2 tsp"
 			},
 			{
@@ -1055,7 +1055,7 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "black pepper",
+				"ingredient": "ground black pepper",
 				"amount": "1 teaspoon"
 			},
 			{
@@ -1267,11 +1267,11 @@
 				"amount": "6"
 			},
 			{
-				"ingredient": "pepper to taste",
+				"ingredient": "Ground pepper to taste",
 				"amount": ""
 			},
 			{
-				"ingredient": "salt to taste",
+				"ingredient": "Salt to taste",
 				"amount": ""
 			},
 			{
@@ -1351,11 +1351,11 @@
 				"amount": ""
 			},
 			{
-				"ingredient": "pepper to taste",
+				"ingredient": "Ground pepper to taste",
 				"amount": ""
 			},
 			{
-				"ingredient": "salt to taste",
+				"ingredient": "Salt to taste",
 				"amount": ""
 			},
 			{
@@ -1529,7 +1529,7 @@
 		"description": "",
 		"ingredients": [
 			{
-				"ingredient": "salt to taste",
+				"ingredient": "Salt to taste",
 				"amount": ""
 			},
 			{
