@@ -63,46 +63,7 @@
 		"recipeBy": "",
 		"visible": false
 	},
-	{
-		"id": 24,
-		"imageUrl": "Spagettiie",
-		"name": "",
-		"serving": "",
-		"prepTime": "",
-		"cookingTime": "",
-		"dishType": [
-			""
-		],
-		"dietType": "",
-		"spicy": 0,
-		"recipeRating": 0,
-		"description": "",
-		"calories": 0,
-		"ingredients": [
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			},
-			{
-				"ingredient": "",
-				"amount": ""
-			}
-		],
-		"directions": [
-			{
-				"step": ""
-			},
-			{
-				"step": ""
-			}
-		],
-		"recipeBy": "",
-		"visible": false
-	},
+	
 	{
 		"id": 25,
 		"imageUrl": "",

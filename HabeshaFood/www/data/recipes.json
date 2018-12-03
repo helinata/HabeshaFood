@@ -64,7 +64,7 @@
 	{
 		"id": 2,
 		"imageUrl": "img/collard-greens.png",
-		"name": "Habesha Gomen | Collard Greens",
+		"name": "Ye'habesha Gomen | Collard Greens",
 		"serving": "4",
 		"prepTime": "15 minutes",
 		"cookingTime": "30 minutes",
@@ -78,7 +78,7 @@
 		"ingredients": [
 			{
 				"ingredient": "collard greens, rinsed",
-				"amount": "1 1/2 pound"
+				"amount": "1 1/2 pounds"
 			},
 			{
 				"ingredient": "oil",
@@ -105,7 +105,7 @@
 				"amount": "1"
 			},
 			{
-				"ingredient": "Ethiopian butter. Optional",
+				"ingredient": "Ethiopian butter (Optional)",
 				"amount": "2 tbsp"
 			}
 		],
@@ -168,7 +168,7 @@
 				"amount": "1/2 tsp"
 			},
 			{
-				"ingredient": "Warm water",
+				"ingredient": "warm water",
 				"amount": "1 cup"
 			}
 		],
@@ -407,7 +407,7 @@
 			},
 			{
 				"ingredient": "beef, finely minced",
-				"amount": "1 pounds"
+				"amount": "1 pound"
 			}
 		],
 		"directions": [
@@ -488,7 +488,7 @@
 				"step": "Heat oil in a medium-low non-stick pot over medium heat. Add onion and cook until tender."
 			},
 			{
-				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding a cup of water in small portions while stirring occasionally "
+				"step": "Add tomato, berbere and garlic. Cook for 10 minutes by adding a cup of water in small portions while stirring occasionally"
 			},
 			{
 				"step": "Combine the lentil with the mix. Cook for 5 minutes. Then, add 4 cups of water and in small portions and stir occasionally for 15 minutes"
@@ -777,7 +777,7 @@
 			},
 			{
 				"ingredient": "dried meat/Kuanta, crushed",
-				"amount": "1/4 pounds"
+				"amount": "1/4 pound"
 			},
 			{
 				"ingredient": "garlic, finely chopped",
@@ -852,7 +852,7 @@
 			},
 			{
 				"ingredient": "beef cut in 1-inch cubes",
-				"amount": "1/2 pounds"
+				"amount": "1/2 pound"
 			},
 			{
 				"ingredient": "sddhiro powder",
@@ -1044,7 +1044,7 @@
 			},
 			{
 				"ingredient": "beef/lamb, cut into 1-inch cubes",
-				"amount": "1/4 pounds"
+				"amount": "1/4 pound"
 			},
 			{
 				"ingredient": "garlic, finely chopped",
@@ -1169,7 +1169,7 @@
 		"ingredients": [
 			{
 				"ingredient": "barley flour",
-				"amount": "2 1/2 cup"
+				"amount": "2 1/2 cups"
 			},
 			{
 				"ingredient": "Ethiopian clarified butter",
@@ -1344,7 +1344,7 @@
 			},
 			{
 				"ingredient": "beef cut in 1-inch cubes",
-				"amount": "1 1/2 pound"
+				"amount": "1 1/2 pounds"
 			},
 			{
 				"ingredient": "pinch of ginger powder",
@@ -1388,7 +1388,7 @@
 	},
 	{
 		"id": 22,
-		"imageUrl": "img/fasolia2.png",
+		"imageUrl": "img/fasolia.png",
 		"name": "Fasolia | Green beans",
 		"serving": "6",
 		"prepTime": "10 minutes",
@@ -1495,7 +1495,7 @@
 		],
 		"directions": [
 			{
-				"step": "In large, heavy pot, cover peas with 3” water. Bring to a boil. Reduce heat to medium low and cook till tender, about 30-45 minutes. Slightly, mash the peas."
+				"step": "In large pot, cover peas with 3 cups of water. Bring to a boil. Reduce heat to medium low and cook till tender, about 30-45 minutes. Slightly, mash the peas."
 			},
 			{
 				"step": "Meanwhile, add oil, onion and garlic in a deep pan. Cook stirring occasionally, until translucent."
@@ -1573,6 +1573,83 @@
 			},
 			{
 				"step": "Serve or cover and refrigerate until serving."
+			}
+		],
+		"recipeBy": "",
+		"visible": true
+	},
+	{
+		"id": 25,
+		"imageUrl": "img/difen-miser.png",
+		"name": "Difen Miser | Brown Lentils stew",
+		"serving": "6",
+		"prepTime": "10 minutes",
+		"cookingTime": "45 minutes",
+		"dishType": [
+			"maindish",
+			"sidedish"
+		],
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": "1/2 cup"
+			},
+			{
+				"ingredient": "medium onion, chopped",
+				"amount": "2"
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": "1"
+			},
+			{
+				"ingredient": "minced garlic",
+				"amount": "2 tbsp"
+			},
+			{
+				"ingredient": "water",
+				"amount": "1 cup"
+			},
+			{
+				"ingredient": "ird (turmeric)",
+				"amount": "1/2 tsp"
+			},
+			{
+				"ingredient": "brown lentils",
+				"amount": "2 cups"
+			},
+			{
+				"ingredient": "salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "serrano pepper, cut into slices",
+				"amount": "1"
+			}
+		],
+		"directions": [
+			{
+				"step": "In large pot, cover lentils with 3 cups of water. Bring to a boil. Reduce heat to medium low and cook till tender, about 25 minutes. Then, slightly mash the Lentil."
+			},
+			{
+				"step": "In a medium pot, heat oil over medium heat. Add the onion to the pot and saute until tender."
+			},
+			{
+				"step": "Add the tomato and garlic to the pot. Cook for 5 minutes by stirring frequently. "
+			},
+			{
+				"step": "Combine cooked lentils (water included) and salt into the onion mixture. Cook on medium-low heat by adding a cup of water in small portions while stirring occasionallyf for 10 minutes."
+			},
+			{
+				"step": "Add serrano pepper. Reduce heat to low and simmer for 5 minutes." 
+			},
+			{
+				"step": "Serve it with injera, bread or rice."
 			}
 		],
 		"recipeBy": "",

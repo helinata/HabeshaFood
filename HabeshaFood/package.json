@@ -5,10 +5,11 @@
   "dependencies": {
     "@angular/core": "^6.0.7",
     "@ionic-native/core": "^4.9.0",
+    "@ionic-native/diagnostic": "^4.17.0",
     "@ionic-native/social-sharing": "^4.9.0",
     "@ionic-native/status-bar": "^4.10.0",
-    "cordova-android": "^7.1.1",
-    "cordova-ios": "^4.5.4",
+    "cordova-android": "^7.1.2",
+    "cordova-ios": "^4.5.5",
     "cordova-plugin-device": "^2.0.2",
     "cordova-plugin-ionic-keyboard": "^2.0.5",
     "cordova-plugin-ionic-webview": "^1.1.19",
