@@ -9,7 +9,7 @@
   <ion-content>
   <!--  <div ng-controller="RecipesCtrl"> -->
       <ul class="list">
-        <li ng-repeat="recipe in recipeList">
+        <li ng-repeat="recipe in recipeList | orderBy:'name'">
           <a href="#/app/recipe/?id={{recipe.id}}" class="item item-thumbnail-left">
             <img ng-src="{{recipe.imageUrl}}" alt="" />
             <h2>{{recipe.name}}</h2>

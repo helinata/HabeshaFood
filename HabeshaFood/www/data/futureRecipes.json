@@ -143,5 +143,71 @@
 		],
 		"recipeBy": "",
 		"visible": false
+	},
+
+	{
+		"id": 22,
+		"imageUrl": "",
+		"name": "Spicy minced beef stew",
+		"serving": "3",
+		"prepTime": "5 minutes",
+		"cookingTime": "30 minutes",
+		"dishType": [
+			"mainDish"
+		],
+		"dietType": "Vegan",
+		"spicy": 0,
+		"recipeRating": 0,
+		"description": "",
+		"calories": 0,
+		"ingredients": [
+			{
+				"ingredient": "oil",
+				"amount": ""
+			},
+			{
+				"ingredient": "onion",
+				"amount": ""
+			},
+			{
+				"ingredient": "tomatoes, coarsely chopped",
+				"amount": ""
+			},
+			{
+				"ingredient": "berbere",
+				"amount": ""
+			},
+			{
+				"ingredient": "water",
+				"amount": ""
+			},
+			{
+				"ingredient": "jalapeno/serrano - optional",
+				"amount": ""
+			},
+			{
+				"ingredient": "ground pepper",
+				"amount": ""
+			},
+			{
+				"ingredient": "Salt to taste",
+				"amount": ""
+			},
+			{
+				"ingredient": "injera",
+				"amount": ""
+			}
+		],
+		"directions": [
+			{
+				"step": ""
+			},
+			{
+				"step": ""
+			}
+		],
+		"recipeBy": "",
+		"visible": false
 	}
+	
 ]
